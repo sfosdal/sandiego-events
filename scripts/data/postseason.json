@@ -1,0 +1,168 @@
+{
+ "_": "Each club's postseason for the season in hand — the rounds, their dates and the final's site — shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. Drafted 2026-10-11; the NFL and MLB rounds are the leagues' published 2026 dates, the rest the usual calendar. 2026-10-11 (San Diego): MLB rounds as Chicago's, MLS as the Fire's, NWSL as the Stars'; the Aztecs' (Pac-12 members since 2026) and Gulls' from the leagues' usual calendars.",
+ "padres": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card Series",
+    "start": "2026-09-29",
+    "end": "2026-10-01"
+   },
+   {
+    "name": "Division Series",
+    "start": "2026-10-03",
+    "end": "2026-10-10"
+   },
+   {
+    "name": "NLCS",
+    "start": "2026-10-12",
+    "end": "2026-10-20"
+   },
+   {
+    "name": "World Series",
+    "start": "2026-10-23",
+    "end": "2026-10-31",
+    "final": true
+   }
+  ]
+ },
+ "sdfc": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card",
+    "start": "2026-10-21",
+    "end": "2026-10-22",
+    "tbd": true
+   },
+   {
+    "name": "Round One",
+    "start": "2026-10-24",
+    "end": "2026-11-08",
+    "tbd": true
+   },
+   {
+    "name": "Conference Semifinals",
+    "start": "2026-11-21",
+    "end": "2026-11-22",
+    "tbd": true
+   },
+   {
+    "name": "Conference Finals",
+    "start": "2026-11-28",
+    "end": "2026-11-29",
+    "tbd": true
+   },
+   {
+    "name": "MLS Cup",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "wave": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "NWSL Playoffs, quarterfinals",
+    "start": "2026-11-07",
+    "end": "2026-11-08",
+    "tbd": true
+   },
+   {
+    "name": "Semifinals",
+    "start": "2026-11-14",
+    "end": "2026-11-15",
+    "tbd": true
+   },
+   {
+    "name": "NWSL Championship",
+    "start": "2026-11-21",
+    "end": "2026-11-21",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "aztecs": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Pac-12 Championship",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "tbd": true
+   },
+   {
+    "name": "Bowl season",
+    "start": "2026-12-13",
+    "end": "2027-01-02",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "aztecsmbb": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Pac-12 Tournament",
+    "start": "2027-03-09",
+    "end": "2027-03-13",
+    "tbd": true,
+    "site": "Las Vegas"
+   },
+   {
+    "name": "NCAA Tournament, first rounds",
+    "start": "2027-03-18",
+    "end": "2027-03-21",
+    "tbd": true
+   },
+   {
+    "name": "Sweet 16 and Elite Eight",
+    "start": "2027-03-25",
+    "end": "2027-03-28",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2027-04-03",
+    "end": "2027-04-05",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "gulls": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Calder Cup Playoffs, first round",
+    "start": "2027-04-21",
+    "end": "2027-04-28",
+    "tbd": true
+   },
+   {
+    "name": "Division Finals",
+    "start": "2027-04-30",
+    "end": "2027-05-10",
+    "tbd": true
+   },
+   {
+    "name": "Conference Finals",
+    "start": "2027-05-13",
+    "end": "2027-05-24",
+    "tbd": true
+   },
+   {
+    "name": "Calder Cup Finals",
+    "start": "2027-05-28",
+    "end": "2027-06-12",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "padres": "Spring training opens in Peoria in February and the regular season in late March at Petco Park; the schedule above fills in once MLB publishes it.",
+  "sdfc": "San Diego FC's MLS season runs late February to October at Snapdragon Stadium, 17 home matches, with the Cup playoffs through early December.",
+  "wave": "The Wave's NWSL season runs March to November at Snapdragon Stadium, with the playoffs beyond that; the fixture list arrives over the winter.",
+  "aztecs": "Aztecs football runs late August to November at Snapdragon Stadium, six or seven home Saturdays, in the Pac-12 since 2026, with the conference championship and a bowl beyond that.",
+  "aztecsmbb": "Aztecs basketball runs early November to March at Viejas Arena, in the Pac-12 since 2026, with the conference tournament in Las Vegas and the NCAA tournament beyond that; the non-conference slate fills in over the summer.",
+  "gulls": "The Gulls' AHL season runs October to April at Pechanga Arena, 36 home dates, with the Calder Cup playoffs beyond that."
+}
