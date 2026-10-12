@@ -1,0 +1,99 @@
+{
+ "events": [
+  {
+   "venue": "Snapdragon Stadium",
+   "title": "Niteharts Festival",
+   "date": "2026-10-11",
+   "time": "12:00:00",
+   "url": "https://on.fgtix.com/trk/4iDbc",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Wholehearted Chorus Presents: The Way Knows the Way",
+   "date": "2026-10-11",
+   "time": "15:00:00",
+   "url": "https://www.universe.com/events/wholehearted-chorus-presents-the-way-knows-the-way-tickets-MDW6JZ?ref=ticketmaster"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "The Rasmus w/ Saint Agnes and Death Valley Dreams",
+   "date": "2026-10-11",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/the-rasmus-w-saint-agnes-and-san-diego-california-10-11-2026/event/0A0064E2EEDCB9F0",
+   "type": "concert"
+  },
+  {
+   "venue": "Petco Park",
+   "title": "Taking Back Sunday",
+   "date": "2026-10-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/taking-back-sunday-san-diego-california-10-11-2026/event/0A006494A3956176",
+   "type": "concert"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "The Rocky Horror Picture Show Ft. Patricia Quinn",
+   "date": "2026-10-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-rocky-horror-picture-show-ft-san-diego-california-10-11-2026/event/0A00645BE7B1BD26",
+   "type": "movie"
+  },
+  {
+   "venue": "The Rady Shell",
+   "title": "for KING & Country",
+   "date": "2026-10-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/for-king-country-san-diego-california-10-11-2026/event/0A0064AD91EC687E",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Michigander",
+   "date": "2026-10-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/michigander-san-diego-california-10-11-2026/event/0A0064A129FAC4B7",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Dinosaur Jr. - Fall Tour 2026 with special guest Stef Chura",
+   "date": "2026-10-11",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/dinosaur-jr-fall-belly-up-tickets/14221304",
+   "type": "concert"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "Beat: Belew/Vai/Levin/Bozzio Performing the Music of KING Crimson",
+   "date": "2026-10-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/beat-belewvailevinbozzio-performing-the-music-of-san-diego-california-10-11-2026/event/0A0064FDF2903AEA",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Ingrid Michaelson - Cozy Fall Trio Tour Featuring Allie Moss & Hannah Winkler",
+   "date": "2026-10-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/ingrid-michaelson-cozy-music-box-tickets/14892973",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Dillinger Four (21 and Over)",
+   "date": "2026-10-11",
+   "time": "20:30:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "Niteharts Presents: Latenite with Alison Wonderland, Hamdi b2b Flava D, Isoknock b2b RL Grime, Nitepunk b2b borne, No Signal, Rocket Rese (18+ Event)",
+   "date": "2026-10-11",
+   "time": "22:00:00",
+   "url": "https://pechangaarenasd.com/",
+   "type": "concert"
+  }
+ ]
+}
