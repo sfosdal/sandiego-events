@@ -102,6 +102,55 @@
    "time": "22:00:00",
    "url": "https://pechangaarenasd.com/",
    "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "DOMi & JD Beck - Who Asked? North America Tour",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/domi-jd-beck-who-asked-north-san-diego-california-10-12-2026/event/0A0064EEC420A274",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Maddie Zahm: Everything All The Time Tour ",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/maddie-zahm-everything-all-the-time-san-diego-california-10-12-2026/event/0A0064C3C3B8B16E",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Hokus Pokus Live!",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/hokus-pokus-live-san-diego-california-10-12-2026/event/0B0064B28B8627ED",
+   "type": "arts",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:46:19.737Z"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Davide De Pierro",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/davide-de-pierro-belly-up-tickets/14939253"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Lucy Darling: As You Wish",
+   "date": "2026-10-12",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/lucy-darling-as-you-wish-san-diego-california-10-12-2026/event/0A0064F5D4BB7B76",
+   "type": "arts"
+  },
+  {
+   "venue": "SOMA",
+   "title": "EsDeeKid - Council House Rat Tour",
+   "date": "2026-10-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/esdeekid-council-house-soma-mainstage-tickets/14270384?pl=soma",
+   "type": "concert"
   }
  ]
 }
