@@ -151,6 +151,70 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/esdeekid-council-house-soma-mainstage-tickets/14270384?pl=soma",
    "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Nekrogoblikon",
+   "date": "2026-10-13",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/nekrogoblikon-san-diego-california-10-13-2026/event/0A0064D20AF78965",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "An Evening with Davide De Pierro",
+   "date": "2026-10-13",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/an-evening-with-davide-de-pierro-san-diego-california-10-13-2026/event/0B006507E0BB7092",
+   "type": "arts"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "Sombr w/ The Hellp",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://pechangaarenasd.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Ilana Glazer Live!",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ilana-glazer-live-san-diego-california-10-13-2026/event/0A0064CF7C693A8C",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "Begin Again",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/"
+  },
+  {
+   "venue": "Cal Coast Open Air Theatre",
+   "title": "Role Model Presents: Chuck On Tour",
+   "date": "2026-10-13",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/role-model-presents-chuck-on-tour-san-diego-california-10-13-2026/event/0A0064CFA391698A",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Deer Tick - Tour-o-matic w/ Presley Haile",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/deer-tick-tour-belly-up-tickets/14762043",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Benmont Tench - SOLO",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/benmont-tench-solo-music-box-tickets/14264254",
+   "type": "concert"
   }
  ]
 }
