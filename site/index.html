@@ -21,14 +21,17 @@
 </script>
 <title>San Diego Events — ballpark, stadium, theatres &amp; music rooms</title>
 <meta name="description" content="What's on in San Diego — Petco Park, Snapdragon Stadium, Pechanga Arena, the theatres and the music rooms, with the home teams' seasons. Calendar, iCal feed, and embeddable widget.">
-<!-- the site's own address and what a shared link shows: name and line (no share card yet) -->
+<!-- the site's own address and what a shared link shows: name, line, and the share card (share.png, 1200×630, scripts/share-card.mjs) -->
 <link rel="canonical" href="https://sandiego.here.events/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="San Diego Events">
 <meta property="og:title" content="San Diego Events">
 <meta property="og:description" content="What's on in San Diego — the ballpark, the stadium, the arenas, the theatres and the music rooms, with the home teams' seasons.">
 <meta property="og:url" content="https://sandiego.here.events/">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://sandiego.here.events/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -445,6 +448,7 @@
 </div>
 
 <script src="city.js?v=__V__" defer></script> <!-- the teams, the venues, the words for the place -->
+<script src="cities.js?v=__V__" defer></script> <!-- every city on here.events, for the Other Places sheet (generated in lqa, synced) -->
 <script src="filter.js?v=__V__" defer></script>
 <script src="app.js?v=__V__" defer></script>
 </body>
