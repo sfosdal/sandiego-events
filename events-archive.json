@@ -215,6 +215,60 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/benmont-tench-solo-music-box-tickets/14264254",
    "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "San Diego Gulls vs. Ontario Reign",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.pechangaarenasd.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "Begin Again",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Sophie Hunter presents:   STEREOSCOPE The Tour",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sophie-hunter-presents-stereoscope-the-tour-san-diego-california-10-14-2026/event/0A0064D7591316C1",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Davide De Pierro",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/davide-de-pierro-belly-up-tickets/14739323"
+  },
+  {
+   "venue": "Snapdragon Stadium",
+   "title": "San Diego FC vs Houston Dynamo FC",
+   "date": "2026-10-14",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/san-diego-fc-vs-houston-dynamo-san-diego-california-10-14-2026/event/0A006427DFCF72FB",
+   "type": "sports"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "Charli xcx - Music, Fashion, Film Tour",
+   "date": "2026-10-14",
+   "time": "19:50:00",
+   "url": "https://www.ticketmaster.com/charli-xcx-music-fashion-film-tour-san-diego-california-10-14-2026/event/0A0064C5A3FB77BE",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "LP - All Is Not Lost Tour",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-del-mar-california-10-14-2026/event/0A00649C9C22DF1B",
+   "type": "concert"
   }
  ]
 }
