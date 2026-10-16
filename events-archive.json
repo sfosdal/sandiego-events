@@ -269,6 +269,109 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-del-mar-california-10-14-2026/event/0A00649C9C22DF1B",
    "type": "concert"
+  },
+  {
+   "venue": "Petco Park",
+   "title": "Turnpike Troubadours",
+   "date": "2026-10-15",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/turnpike-troubadours-san-diego-california-10-15-2026/event/0A0064E1B14280CB",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Demon Hunter - Storm the Gates of Hell 20th Anniversary Tour",
+   "date": "2026-10-15",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/demon-hunter-storm-the-gates-of-san-diego-california-10-15-2026/event/0A0064F1CAC2C1B8",
+   "type": "concert"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/daniel-sloss-bitter-brand-new-tour-san-diego-california-10-15-2026/event/0A006442E84B90E4",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "Begin Again",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Love Spells - Love Is The Law World Tour",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/love-spells-love-is-the-law-san-diego-california-10-15-2026/event/0A0064BAC2FF8D1D",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Xavier Wulf Presents: The Cool World Tour",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/xavier-wulf-presents-the-cool-world-san-diego-california-10-15-2026/event/0B0064F0EF1282E9",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Add On: Xavier Wulf M&G",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/add-on-xavier-wulf-mg-san-diego-california-10-15-2026/event/0B00651393AD2AB8"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Easy Star All-Stars - Dub Side of the Moon w/ Double Tiger",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/easy-star-all-stars-belly-up-tickets/14262134",
+   "type": "concert"
+  },
+  {
+   "venue": "SOMA",
+   "title": "Saint Levant",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "http://www.somasandiego.com"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Akeem Ali - The Texture Tour",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/akeem-ali-the-music-box-tickets/14819503",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "John Mulaney: Mister Whatever",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/john-mulaney-mister-whatever-temecula-california-10-15-2026/event/0A006473ED6B1231",
+   "type": "arts"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "John Caponera",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/john-caponera-temecula-california-10-15-2026/event/0A00650E8DE19DBF",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Shiner - 21+",
+   "date": "2026-10-15",
+   "time": "20:30:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
   }
  ]
 }
