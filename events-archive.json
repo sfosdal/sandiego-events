@@ -372,6 +372,112 @@
    "time": "20:30:00",
    "url": "https://www.casbahmusic.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Atomic Groove's RocktoberFest Benefit for Gurkhas Rugby Dance Party Happy Hour",
+   "date": "2026-10-16",
+   "time": "17:30:00",
+   "url": "https://www.ticketweb.com/event/atomic-grooves-rocktoberfest-benefit-for-belly-up-tickets/14999923",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rady Shell",
+   "title": "MUNA: Gets So Hot Tour",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/muna-gets-so-hot-tour-san-diego-california-10-16-2026/event/0A0064A43D3D6AAA",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "Begin Again",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/"
+  },
+  {
+   "venue": "North Island Credit Union Amphitheatre",
+   "title": "Logic & G-Eazy: The Endless Summer Tour Part II",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-chula-vista-california-10-16-2026/event/0A006495A1C28143",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Edgar Alejandro",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/edgar-alejandro-san-diego-california-10-16-2026/event/0A0064E1724832EA",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Flashy B - The Influence Tour",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/flashy-b-the-influence-tour-san-diego-california-10-16-2026/event/0A0064EEBA6297F9",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-17T00:16:42.305Z"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "John Caponera",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/john-caponera-temecula-california-10-16-2026/event/0A00650E8DE59DD9",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/sex-pistols-steve-jones-paul-cook-san-diego-california-10-16-2026/event/0B006545E4E9D092",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "Shakey Graves - Fondness, Etc. Tour w/ Wild Pink",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/shakey-graves-fondness-etc-tour-w-del-mar-california-10-16-2026/event/0A0064A6BD54DEDE",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Untamed Youth (21 and Over)",
+   "date": "2026-10-16",
+   "time": "20:30:00",
+   "url": "https://www.casbahmusic.com/"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Z-Trip & Friends, Murs, Honeycomb, Chris Karns",
+   "date": "2026-10-16",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/z-trip-friends-murs-belly-up-tickets/14988573",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Peter Bjorn and John - Writer’s Block 20th Anniversary Tour w/ Josh Rouse",
+   "date": "2026-10-16",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/peter-bjorn-and-john-music-box-tickets/14957973",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "John Caponera",
+   "date": "2026-10-16",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/john-caponera-temecula-california-10-16-2026/event/0A00650E8DEA9DED",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
