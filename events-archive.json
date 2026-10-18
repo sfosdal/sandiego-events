@@ -478,6 +478,151 @@
    "url": "https://www.ticketmaster.com/john-caponera-temecula-california-10-16-2026/event/0A00650E8DEA9DED",
    "age21": true,
    "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "Begin Again",
+   "date": "2026-10-17",
+   "time": "14:00:00",
+   "url": "https://www.theoldglobe.org/"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Pouya: The Forever Glades Tour",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/pouya-the-forever-glades-tour-san-diego-california-10-17-2026/event/0A0064C85CFD1A6F",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Earlybirds Club - Dance Party: Y2K Night",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.ticketweb.com/event/earlybirds-club-dance-music-box-tickets/15012973",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Tumua Das' How Tour",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/tumua-das-how-tour-el-cajon-california-10-17-2026/event/0B0064AB98F93435",
+   "type": "arts"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Dusty Slay: The Neighborhood Guy",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/dusty-slay-the-neighborhood-guy-san-diego-california-10-17-2026/event/0A006477C745A223",
+   "type": "arts"
+  },
+  {
+   "venue": "The Rady Shell",
+   "title": "Bonnie Raitt",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.theshell.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "bodie - Sellout Tour",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/bodie-sellout-tour-san-diego-california-10-17-2026/event/0A0064F79D897001",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "John Caponera",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/john-caponera-temecula-california-10-17-2026/event/0A00650E8DEE9E0F",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Snapdragon Stadium",
+   "title": "SDSU Aztec Football vs. Fresno State Bulldogs Football",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/sdsu-aztec-football-vs-fresno-state-san-diego-california-10-17-2026/event/0A0064E680FE38BA",
+   "type": "sports"
+  },
+  {
+   "venue": "Humphreys Concerts by the Bay",
+   "title": "10,000 Maniacs",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/10000-maniacs-san-diego-california-10-17-2026/event/0A006462F8029CAC",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "Begin Again",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.theoldglobe.org/"
+  },
+  {
+   "venue": "SOMA",
+   "title": "Lil Pete: Real Is Back Tour",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/lil-pete-real-is-back-soma-sidestage-tickets/15046063?pl=soma",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "Boy Harsher",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/boy-harsher-del-mar-california-10-17-2026/event/0A0064C4D293A129",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Hins Cheung",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/hins-cheung-temecula-california-10-17-2026/event/0A006501047F97AA",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Emo Night Brooklyn",
+   "date": "2026-10-17",
+   "time": "20:30:00",
+   "url": "https://www.ticketmaster.com/emo-night-brooklyn-san-diego-california-10-17-2026/event/0B006511DB657630",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Juice (21 and Over)",
+   "date": "2026-10-17",
+   "time": "20:30:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "John Caponera",
+   "date": "2026-10-17",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/john-caponera-temecula-california-10-17-2026/event/0A00650E8DF59E49",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Mustache Bash Family Band | San Diego Intl Film Festival",
+   "date": "2026-10-17",
+   "time": "21:30:00",
+   "url": "https://www.ticketweb.com/event/mustache-bash-family-band-belly-up-tickets/14280344",
+   "type": "concert"
   }
  ]
 }
