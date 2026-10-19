@@ -623,6 +623,61 @@
    "time": "21:30:00",
    "url": "https://www.ticketweb.com/event/mustache-bash-family-band-belly-up-tickets/14280344",
    "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "Begin Again",
+   "date": "2026-10-18",
+   "time": "14:00:00",
+   "url": "https://www.theoldglobe.org/"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Glaive - God Save The Three Tour",
+   "date": "2026-10-18",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/glaive-god-save-the-three-tour-san-diego-california-10-18-2026/event/0B0064A4AC6F7031",
+   "type": "concert"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Compositions: An Evening Of Katie Jenkins",
+   "date": "2026-10-18",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/compositions-an-evening-of-katie-jenkins-san-diego-california-10-18-2026/event/0A00649CEE2BAF7F",
+   "type": "arts"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "moe. - An Evening with",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/moe-an-evening-belly-up-tickets/14940093",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Blitzkid (21 and Over)",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "Kylie Cantrall Presents: The Valley Girl Problems Tour w/ Girlset",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kylie-cantrall-presents-the-valley-girl-del-mar-california-10-18-2026/event/0A0064FFAD3FC7AA",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Souls of Mischief, Louis King, Sham Blak, Atlantis Rizing",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/souls-of-mischief-louis-king-music-box-tickets/15029213",
+   "type": "concert"
   }
  ]
 }
