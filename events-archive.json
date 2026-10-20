@@ -678,6 +678,54 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/souls-of-mischief-louis-king-music-box-tickets/15029213",
    "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "WWE Monday Night Raw",
+   "date": "2026-10-19",
+   "time": "16:30:00",
+   "url": "https://www.pechangaarenasd.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "MICO: Running From A Feeling Tour",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mico-running-from-a-feeling-tour-san-diego-california-10-19-2026/event/0A0064ADACD38DDB",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Evanora Unlimited",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/evanora-unlimited-san-diego-california-10-19-2026/event/0A006524B8D0BCFD",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Cuco",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/cuco-san-diego-california-10-19-2026/event/0B00652D16D073A8",
+   "type": "concert"
+  },
+  {
+   "venue": "Jacobs Music Center",
+   "title": "Vienna Royal Orchestra: Viva Mozart 270",
+   "date": "2026-10-19",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/vienna-royal-orchestra-viva-mozart-270-san-diego-california-10-19-2026/event/0A0064CFDDD2AB9E",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "The Core - Eric Clapton Tribute",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/the-core-eric-belly-up-tickets/14936963",
+   "type": "concert"
   }
  ]
 }
