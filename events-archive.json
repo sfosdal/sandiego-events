@@ -726,6 +726,46 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/the-core-eric-belly-up-tickets/14936963",
    "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "The Paradox",
+   "date": "2026-10-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-paradox-san-diego-california-10-20-2026/event/0A0064CB18B9CF67",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Julia Jacklin - North America Tour 2026",
+   "date": "2026-10-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/julia-jacklin-north-america-tour-2026-san-diego-california-10-20-2026/event/0B0064BCEEA688B4",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Iron & Wine",
+   "date": "2026-10-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/iron-wine-el-cajon-california-10-20-2026/event/0B00643D92C0327D",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Melvins, Headsend",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/melvins-headsend-belly-up-tickets/14264734",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Protomartyr (21 and Over)",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
   }
  ]
 }
