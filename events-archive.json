@@ -766,6 +766,69 @@
    "time": "20:00:00",
    "url": "https://www.casbahmusic.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "San Diego Gulls vs. Coachella Valley Firebirds",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.pechangaarenasd.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "WEEZER: The Gathering",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/weezer-the-gathering-san-diego-california-10-21-2026/event/0A00646D8E69912C",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "New Constellations: It Comes In Waves Tour",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/new-constellations-it-comes-in-waves-san-diego-california-10-21-2026/event/0A0064E16A802C21",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Jenna Raine - Jeans, Boys & Jesus Tour",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jenna-raine-jeans-boys-jesus-tour-san-diego-california-10-21-2026/event/0A0064BCC160AA11",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Joy Oladokun: The Heavy Things Tour",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/joy-oladokun-the-heavy-things-tour-san-diego-california-10-21-2026/event/0B0064F5A1982957",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Chelsea Wolfe: The Dark World Tour",
+   "date": "2026-10-21",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/chelsea-wolfe-the-dark-world-tour-el-cajon-california-10-21-2026/event/0B0064D2AF8235EC",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Automatic - North America Tour '26 w/ Nuovo Testamento",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/automatic-north-america-belly-up-tickets/14203574",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Bebe Stockwell (21 and Over)",
+   "date": "2026-10-21",
+   "time": "20:30:00",
+   "url": "https://www.casbahmusic.com/"
   }
  ]
 }
