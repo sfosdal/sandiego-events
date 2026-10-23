@@ -829,6 +829,63 @@
    "date": "2026-10-21",
    "time": "20:30:00",
    "url": "https://www.casbahmusic.com/"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Hovvdy - 21+",
+   "date": "2026-10-22",
+   "time": "18:30:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "She Wants Revenge",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/she-wants-revenge-san-diego-california-10-22-2026/event/0A0064A7C52FC4C5",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Post Sex Nachos",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/post-sex-nachos-san-diego-california-10-22-2026/event/0A0064A6E5021BA5",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "almost monday - Thank God It's Almost Monday",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/almost-monday-thank-god-its-almost-san-diego-california-10-22-2026/event/0B0064D2AC6E3468",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Cortex",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/cortex-el-cajon-california-10-22-2026/event/0B0064DE8BC02294",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Brewers Ball ft. Marujah | Soulseller | Lesser Works | Hood",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/brewers-ball-ft-marujah-belly-up-tickets/14336444",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Collin Moulton",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/collin-moulton-temecula-california-10-22-2026/event/0A00650E9991DB67",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
