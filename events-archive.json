@@ -886,6 +886,104 @@
    "url": "https://www.ticketmaster.com/collin-moulton-temecula-california-10-22-2026/event/0A00650E9991DB67",
    "age21": true,
    "type": "arts"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Toga Party Band Happy Hour",
+   "date": "2026-10-23",
+   "time": "17:30:00",
+   "url": "https://www.ticketweb.com/event/toga-party-band-happy-hour-belly-up-tickets/15046423",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Dead Poet Society x Honey Revenge",
+   "date": "2026-10-23",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/dead-poet-society-x-honey-revenge-san-diego-california-10-23-2026/event/0A0064F7B8F99709",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "The Aquabats!",
+   "date": "2026-10-23",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/the-aquabats-san-diego-california-10-23-2026/event/0B0064E6E99E4961",
+   "type": "concert"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Mens Basketball vs. USC Trojans Men's Basketball",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-mens-basketball-san-diego-california-10-23-2026/event/0A00654CC4E97BBD",
+   "type": "sports"
+  },
+  {
+   "venue": "The Rady Shell",
+   "title": "Madeon presents Victory Live",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/madeon-presents-victory-live-san-diego-california-10-23-2026/event/0A0064A40B897F48",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Kyle Gordon",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/kyle-gordon-san-diego-california-10-23-2026/event/0A0064BCB84CA018",
+   "type": "arts"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Collin Moulton",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/collin-moulton-temecula-california-10-23-2026/event/0A00650E9998DB8F",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "San Diego Opera Presents: RIGOLETTO ",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/san-diego-opera-presents-rigoletto-san-diego-california-10-23-2026/event/0A00650B92067EEA",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Concerts by the Bay",
+   "title": "Ten - US Showcase Tour",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/ten-us-showcase-tour-san-diego-california-10-23-2026/event/0A0065139AD2B2C3",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "America The Happy Trails Tour 2026 ",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/america-the-happy-trails-tour-2026-temecula-california-10-23-2026/event/0A006444CC9482C5",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Kishi Bashi - Sonderlust 10th Anniversary Tour w/ Geographer",
+   "date": "2026-10-23",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/kishi-bashi-sonderlust-belly-up-tickets/14807593",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Collin Moulton",
+   "date": "2026-10-23",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/collin-moulton-temecula-california-10-23-2026/event/0A00650E999EDBD1",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
