@@ -81,6 +81,7 @@
   var VENUES = {
     // --- Downtown and the stadiums: Petco Park, Snapdragon, the arena, the Civic and Balboa, the Symphony's two homes, the Globe ---
     'Petco Park': {
+      geo: [32.7071, -117.15681],
       capacity: 40000,
       type: 'sports',
       cssVar: '--v-petco',
@@ -91,6 +92,7 @@
       alias: /petco park/i,
     },
     'Snapdragon Stadium': {
+      geo: [32.78451, -117.1212],
       capacity: 35000,
       type: 'sports',
       cssVar: '--v-snapdragon',
@@ -101,6 +103,7 @@
       alias: /snapdragon stadium/i,
     },
     'Pechanga Arena': {
+      geo: [32.75527, -117.2122],
       capacity: 12920,
       type: 'concert',
       cssVar: '--v-pechanga',
@@ -111,6 +114,7 @@
       alias: /pechanga arena|valley view casino center|san diego sports arena/i,
     },
     'Viejas Arena': {
+      geo: [32.77229, -117.07192],
       capacity: 12414,
       type: 'sports',
       cssVar: '--v-viejas',
@@ -121,6 +125,7 @@
       alias: /viejas arena/i,
     },
     'San Diego Civic Theatre': {
+      geo: [32.71779, -117.162],
       capacity: 2967,
       type: 'arts',
       cssVar: '--v-civic',
@@ -131,6 +136,7 @@
       alias: /civic theat/i,
     },
     'Balboa Theatre': {
+      geo: [32.71433, -117.16123],
       capacity: 1339,
       type: 'arts',
       cssVar: '--v-balboa',
@@ -141,6 +147,7 @@
       alias: /balboa theat/i,
     },
     'Jacobs Music Center': {
+      geo: [32.71867, -117.1579],
       capacity: 1800,
       type: 'arts',
       cssVar: '--v-jacobs',
@@ -151,6 +158,7 @@
       alias: /jacobs music center|copley symphony hall/i,
     },
     'The Rady Shell': {
+      geo: [32.70602, -117.16343],
       capacity: 10000,
       type: 'concert',
       cssVar: '--v-shell',
@@ -161,6 +169,7 @@
       alias: /rady shell/i,
     },
     'The Old Globe': {
+      geo: [32.7253, -117.166],
       capacity: 600,
       type: 'arts',
       cssVar: '--v-globe',
@@ -172,6 +181,7 @@
     },
     // --- Music rooms and around (`area: 'town'`): Shelter Island, the SDSU bowl, the clubs from North Park to Solana Beach, Chula Vista, Del Mar and Temecula ---
     'Humphreys Concerts by the Bay': {
+      geo: [32.71698, -117.22363],
       area: 'town',
       capacity: 1400,
       type: 'concert',
@@ -183,6 +193,7 @@
       alias: /humphreys concerts/i,
     },
     'Humphreys Backstage Live': {
+      geo: [32.7166, -117.2241],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -194,6 +205,7 @@
       alias: /humphreys backstage/i,
     },
     'Cal Coast Open Air Theatre': {
+      geo: [32.77479, -117.07123],
       area: 'town',
       capacity: 4600,
       type: 'concert',
@@ -205,6 +217,7 @@
       alias: /open air theat/i,
     },
     'North Island Credit Union Amphitheatre': {
+      geo: [32.5883, -117.00641],
       area: 'town',
       capacity: 20500,
       type: 'concert',
@@ -216,6 +229,7 @@
       alias: /north island credit union|mattress firm amphitheat|sleep train amphitheat/i,
     },
     'House of Blues': {
+      geo: [32.71637, -117.16009],
       area: 'town',
       capacity: 1100,
       type: 'concert',
@@ -227,6 +241,7 @@
       alias: /^house of blues( san diego)?$/i,
     },
     'Voodoo Room': {
+      geo: [32.71662, -117.15951],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -238,6 +253,7 @@
       alias: /voodoo room/i,
     },
     'The Observatory North Park': {
+      geo: [32.7481, -117.13121],
       area: 'town',
       capacity: 1100,
       type: 'concert',
@@ -249,6 +265,7 @@
       alias: /observatory north park/i,
     },
     'Belly Up': {
+      geo: [32.99052, -117.2705],
       area: 'town',
       capacity: 600,
       type: 'concert',
@@ -260,6 +277,7 @@
       alias: /belly up/i,
     },
     'SOMA': {
+      geo: [32.75382, -117.20927],
       area: 'town',
       capacity: 2200,
       type: 'concert',
@@ -271,6 +289,7 @@
       alias: /^soma\b/i,
     },
     'Music Box': {
+      geo: [32.71938, -117.16813],
       area: 'town',
       capacity: 700,
       type: 'concert',
@@ -282,6 +301,7 @@
       alias: /^(the )?music box$/i,
     },
     'Casbah': {
+      geo: [32.7303, -117.17179],
       area: 'town',
       capacity: 200,
       type: 'concert',
@@ -293,6 +313,7 @@
       alias: /casbah/i,
     },
     'The Magnolia': {
+      geo: [32.79563, -116.95955],
       area: 'town',
       capacity: 1200,
       type: 'concert',
@@ -304,6 +325,7 @@
       alias: /the magnolia/i,
     },
     'Brick by Brick': {
+      geo: [32.76872, -117.20104],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -315,6 +337,7 @@
       alias: /brick by brick/i,
     },
     'The Sound': {
+      geo: [32.9758, -117.2583],
       area: 'town',
       capacity: 1900,
       type: 'concert',
@@ -326,6 +349,7 @@
       alias: /^the sound$/i,
     },
     'Del Mar Fairgrounds': {
+      geo: [32.97449, -117.25985],
       area: 'town',
       capacity: 8000,
       type: 'community',
@@ -398,6 +422,20 @@
     ics: { name: 'San Diego Events', short: 'San Diego Events', teams: 'San Diego home teams — every season', prodid: '-//here.events//sandiego-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around San Diego\\, CA — Petco Park\\, Snapdragon Stadium\\, Pechanga Arena\\, the theatres and the music rooms' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [32.528, -117.317, 33.051, -116.913], // south, west, north, east — every room, with a margin
+      home: [32.686, -117.247, 32.804, -117.037], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.8,
+      labels: [
+        { name: 'San Diego', lat: 32.716, lon: -117.161, anchor: 'middle' },
+        { name: 'Chula Vista', lat: 32.64005, lon: -117.08419, anchor: 'middle' },
+        { name: 'Solana Beach', lat: 32.99191, lon: -117.26781, anchor: 'middle' },
+        { name: 'El Cajon', lat: 32.79477, lon: -116.96253, anchor: 'middle' },
+        { name: 'Del Mar', lat: 32.95949, lon: -117.26531, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
