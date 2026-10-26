@@ -1114,6 +1114,88 @@
    "url": "https://www.ticketmaster.com/collin-moulton-temecula-california-10-24-2026/event/0A00650E99A7DBED",
    "age21": true,
    "type": "arts"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "San Diego Opera Presents: RIGOLETTO ",
+   "date": "2026-10-25",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-opera-presents-rigoletto-san-diego-california-10-25-2026/event/0A00650B92117F02",
+   "type": "arts"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "City Ballet Of San Diego Presents: American Icons",
+   "date": "2026-10-25",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/city-ballet-of-san-diego-presents-san-diego-california-10-25-2026/event/0A00650DE84579E4",
+   "type": "arts"
+  },
+  {
+   "venue": "Snapdragon Stadium",
+   "title": "San Diego Wave FC vs Boston Legacy FC",
+   "date": "2026-10-25",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-wave-fc-vs-boston-san-diego-california-10-25-2026/event/0A006434F2DC93A6",
+   "type": "sports"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Darryl Williams",
+   "date": "2026-10-25",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/darryl-williams-san-diego-california-10-25-2026/event/0A006507080B75D0",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Daley - US Tour",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/daley-us-tour-san-diego-california-10-25-2026/event/0A0064CB23A2E6EE",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Infinite Floyd - The Essential Hits",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/infinite-floyd-the-belly-up-tickets/14371654",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "Gorillaz - The Mountain Tour",
+   "date": "2026-10-25",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/gorillaz-the-mountain-tour-san-diego-california-10-25-2026/event/0A00645B1979EB74",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Assala Nasri",
+   "date": "2026-10-25",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/assala-nasri-temecula-california-10-25-2026/event/0A0064D1CC59D872",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:46:19.737Z"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "YG: The Gentlemen's Club Tour",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/yg-the-gentlemens-club-tour-san-diego-california-10-25-2026/event/0A0064F02F3538F3",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Frog - 21+",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.casbahmusic.com/"
   }
  ]
 }
