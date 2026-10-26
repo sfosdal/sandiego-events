@@ -404,10 +404,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'San Diego', // the board drops it from the clubs' names ("San Diego Padres" → Padres)
-    presetDefault: 'Every room — the ballpark, the stadium, the arenas, the theatres, the music rooms and the places around the county — every team and type',
+    presetDefault: 'Every venue — the ballpark, the stadium, the arenas, the theatres, the music venues and the places around the county — every team and type',
     presetNeighborhood: 'Downtown and the stadiums only',
     presetBig: 'Only the places that hold 2,000 or more — the ballpark, the stadium, the arenas, the amphitheatres and the big theatres',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing downtown and the stadiums only.', big: 'Showing the big rooms only — the ballpark, the stadium, the arenas, the amphitheatres and the big theatres.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing downtown and the stadiums only.', big: 'Showing the big venues only — the ballpark, the stadium, the arenas, the amphitheatres and the big theatres.' },
   };
 
   global.LQACity = {
