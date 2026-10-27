@@ -1196,6 +1196,38 @@
    "date": "2026-10-25",
    "time": "20:00:00",
    "url": "https://www.casbahmusic.com/"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Dr. Jekyll & Mr. Hyde (1920) Played by David Marsh",
+   "date": "2026-10-26",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/dr-jekyll-mr-hyde-1920-played-san-diego-california-10-26-2026/event/0A00646C9B97D90D",
+   "type": "arts"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Blessing Offor - Heart So Real Tour PT. 2",
+   "date": "2026-10-26",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blessing-offor-heart-so-real-tour-san-diego-california-10-26-2026/event/0A0064F1B395A044",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Michael Franti Trio - Heartstrings & Dynamite w/ The Wheeland Brothers (acoustic)",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/michael-franti-trio-belly-up-tickets/14262304",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Hayden Everett (21 and Over)",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
   }
  ]
 }
