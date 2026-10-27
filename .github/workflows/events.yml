@@ -2,7 +2,7 @@ name: build & publish events
 
 on:
   schedule:
-    - cron: '23 19 * * *'   # once a day at noon Pacific (19:00 UTC in daylight time, 11 AM PST in winter; GitHub cron is UTC, best-effort), off the lqa-events and everett-events minutes — Steve, 2026-10-11
+    - cron: '57 19 * * *'   # once a day at noon Pacific (19:00 UTC in daylight time, 11 AM PST in winter; GitHub cron is UTC, best-effort), off every other Pacific site's minute (Seattle also used 19:23 until 2026-10-27) — Steve, 2026-10-11
   workflow_dispatch: {}
   push:
     branches: [main]
