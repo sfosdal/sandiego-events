@@ -21,6 +21,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - uses: astral-sh/setup-uv@v6   # uv runs scripts/cffi-fetch.py (curl_cffi: a Chrome TLS fingerprint) for the Casbah's page, whose edge answers Node 403
       - name: Test
         run: node --test scripts/*.test.mjs
       - name: Fetch & aggregate events

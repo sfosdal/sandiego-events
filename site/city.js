@@ -357,7 +357,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=casbahmusic.com&sz=128',
       tm: { id: 'KovZpZAaEveA', match: 'casbah', fallbackUrl: 'https://casbahmusic.com/', secondary: true }, // Ticketmaster, read behind the club's own calendar — every venue both ways (Steve, 2026-10-26)
       // the club's own calendar (SeeTickets list: "Wed Mar 3", the show time, "at Casbah" — its Casbah Presents nights at Soda Bar, the Music Box and the Belly Up kept out by `venues`), LEADS (2026-10-27)
-      feed: { kind: 'cards', url: 'https://casbahmusic.com/calendar/', venues: /^casbah$/i,
+      feed: { kind: 'cards', chrome: true, url: 'https://casbahmusic.com/calendar/', venues: /^casbah$/i,
         item: /<div\s+class="mdc-card display-flex mt-12 mb-12 seetickets-list-event-container/, title: /<p class="fs-18 bold mb-12 event-title"><a href="([^"]+)"[^>]*>([^<]+)<\/a>/, when: /event-date">([^<]*)<[\s\S]*?see-showtime[^>]*>([^<]*)</, place: /<p class="fs-12 venue">at ([^<]*)<\/p>/ },
       alias: /casbah/i,
     },
