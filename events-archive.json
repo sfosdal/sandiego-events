@@ -1228,6 +1228,86 @@
    "time": "20:00:00",
    "url": "https://www.casbahmusic.com/",
    "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "James Tom Goes on a Mini-Tour, Casual Style",
+   "date": "2026-10-27",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/james-tom-goes-on-a-minitour-san-diego-california-10-27-2026/event/0A006524B8C3BCE9",
+   "type": "arts",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:46:19.737Z"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "John Scofield, Oteil Burbridge, Larry Goldings, Adam Deitch",
+   "date": "2026-10-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800693",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Sunn O )))",
+   "date": "2026-10-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sunn-o-el-cajon-california-10-27-2026/event/0B0064E9D66B5665",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Add On - sunn O))) Soundcheck - Not An Event Ticket",
+   "date": "2026-10-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/add-on-sunn-o-soundcheck-not-el-cajon-california-10-27-2026/event/0B0064EDB6DC4C1D"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Add On - sunn O))) Soundcheck II- Not An Event Ticket",
+   "date": "2026-10-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/add-on-sunn-o-soundcheck-ii-el-cajon-california-10-27-2026/event/0B0064EDB9DD4F41"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "Doja Cat - Tour Ma Vie World Tour",
+   "date": "2026-10-27",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-san-diego-california-10-27-2026/event/0A00633B10646A91",
+   "type": "concert"
+  },
+  {
+   "venue": "Humphreys Concerts by the Bay",
+   "title": "Gary Clark Jr. with special guests Xavier Lynn",
+   "date": "2026-10-27",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/gary-clark-jr-with-special-guests-san-diego-california-10-27-2026/event/0A006462F4EE9AAA",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Patrick Wolf (21 and Over)",
+   "date": "2026-10-27",
+   "time": "20:00:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "Todd Rundgren: Damned IF I Do Tour",
+   "date": "2026-10-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/todd-rundgren-damned-if-i-do-del-mar-california-10-27-2026/event/0A0064E19C92648A",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "John Scofield, Oteil Burbridge, Larry Goldings, Adam Deitch",
+   "date": "2026-10-27",
+   "time": "21:30:00",
+   "url": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800703",
+   "type": "concert"
   }
  ]
 }
