@@ -674,11 +674,11 @@ const CARD_MONTHS = { jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6, jul: 7, au
  */
 export function cardDates(text, today = new Date()) {
   const t = decode(text);
-  const iso = /\b(\d{4}-\d{2}-\d{2})\b/.exec(t); // a hidden sort field already in ISO (Lumen Field's Webflow cards, 2026-10-26)
-  if (iso) return [{ date: iso[1], time: cardClock(t.slice(iso.index + iso[0].length)) || cardClock(t) }];
+  const iso = /\b(\d{4}-\d{2}-\d{2})(?:T(\d{2}:\d{2})|\b)/.exec(t); // a hidden sort field already in ISO (Lumen Field's Webflow cards, 2026-10-26); an ISO datetime carries its own wall clock ("2026-11-14T19:30:00-08:00", the Symphony's Tessitura page, 2026-10-27)
+  if (iso) return [{ date: iso[1], time: iso[2] || cardClock(t.slice(iso.index + iso[0].length)) || cardClock(t) }];
   // "October 15, 2026", "December 05-06, 2026", "October 31 - November 2, 2026", "15 Oct", "15 Oct 2026"
   // month first — not a clock's hour after the month ("Oct 7:00 pm") and not the month of a day-first date ("15 Oct")
-  let m = /(?<!\d\s{0,2})([A-Za-z]{3,9})\.?\s+(\d{1,2})(?![:\d])(?:\s*[-–]\s*(?:([A-Za-z]{3,9})\.?\s+)?(\d{1,2}))?(?:,?\s*(\d{4}))?/.exec(t);
+  let m = /(?<!\d\s{0,2})([A-Za-z]{3,9})\.?\s+(\d{1,2})(?![:\d])(?:\s*[-–]\s*(?:([A-Za-z]{3,9})\.?\s+)?(\d{1,2}))?(?:\s*,?\s*(\d{4}))?/.exec(t); // the year may sit in its own span ("29 </span><span>, 2026" — Carbonhouse date markup, 2026-10-27)
   let mon1, d1, mon2, d2, year;
   if (m && CARD_MONTHS[m[1].slice(0, 3).toLowerCase()]) { [mon1, d1, mon2, d2, year] = [m[1], m[2], m[3], m[4], m[5]]; }
   else {
