@@ -12,6 +12,7 @@
  * are read one by one. The teams' seasons come from ESPN, MLB's stats API
  * and the AHL's HockeyTech feed (scripts/schedules.mjs).
  */
+import './failures.mjs'; // first: every outside call retried, the ones still failing written to failures.json (Steve, 2026-10-29)
 import { writeFileSync, readFileSync } from 'node:fs';
 import { buildIcs } from './ics.mjs';
 import { isChurch } from './sources.mjs';
