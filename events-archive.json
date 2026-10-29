@@ -1308,6 +1308,72 @@
    "time": "21:30:00",
    "url": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800703",
    "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Club Bataclysm",
+   "date": "2026-10-28",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14340484/club-bataclysm-poxsey-velas-negras-the-fever-vault-neonstorm-dj-7th-stranger/",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Jake Cornell",
+   "date": "2026-10-28",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/jake-cornell-san-diego-california-10-28-2026/event/0A006519D119EFAA",
+   "type": "arts",
+   "status": "cancelled",
+   "statusSince": "2026-10-15T19:21:47.532Z"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Mens Basketball vs. Long Beach State Men's Basketball",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-mens-basketball-san-diego-california-10-28-2026/event/0A00654CC4ED7BC4",
+   "type": "sports"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Austin Giorgio",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/austin-giorgio-san-diego-california-10-28-2026/event/0A0064CB2699EDEB",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Jim Hensons Labyrinth: In Concert 40th Anniversary",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jim-hensons-labyrinth-in-concert-40th-el-cajon-california-10-28-2026/event/0B006397A2042F1F",
+   "type": "movie"
+  },
+  {
+   "venue": "Humphreys Concerts by the Bay",
+   "title": "Gary Clark Jr.",
+   "date": "2026-10-28",
+   "time": "19:30",
+   "url": "https://www.humphreysconcerts.com/schedule.cfm",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Howie Day, Matthew Phillips",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/howie-day-matthew-phillips-belly-up-tickets/15008973",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Improvement Movement (21 and Over)",
+   "date": "2026-10-28",
+   "time": "20:30:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
   }
  ]
 }
