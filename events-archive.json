@@ -1374,6 +1374,103 @@
    "time": "20:30:00",
    "url": "https://www.casbahmusic.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Lizzy & the Triggermen",
+   "date": "2026-10-29",
+   "time": "",
+   "url": "https://bellyup.com/calendar/15032413/lizzy-the-triggermen-grey-delisle-the-blue-ribbon-boys",
+   "type": "concert"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Blue Healers",
+   "date": "2026-10-29",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/blue-healers/2026-10-29/",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "AZ Chike",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/az-chike-san-diego-california-10-29-2026/event/0A006518C25CA9BC",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Epik High 3.0 North American Tour",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/epik-high-30-north-american-tour-san-diego-california-10-29-2026/event/0B0064C5CA617063",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Add on - VIP2 Epik High HQ Upgrade - Not an Event Ticket",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/add-on-vip2-epik-high-hq-san-diego-california-10-29-2026/event/0B0064D1D8194EC4"
+  },
+  {
+   "venue": "Jacobs Music Center",
+   "title": "Orchestre symphonique de Montréal",
+   "date": "2026-10-29",
+   "time": "19:30",
+   "url": "https://www.sandiegosymphony.org/performances/orchestre-symphonique-de-montreal/",
+   "type": "arts"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Lila Downs - Dia de Muertos",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/lila-downs-dia-de-muertos-san-diego-california-10-29-2026/event/0A0064C482C2433A",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Lizzy & the Triggermen, Grey DeLisle & the Blue Ribbon Boys",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/lizzy-the-triggermen-grey-belly-up-tickets/15032413",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Kevin Stone",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kevin-stone-temecula-california-10-29-2026/event/0A00650ECD8EB1F2",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Agriculture (21 and Over)",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Failure - The Rising Skyline Tour w/ Quannnic",
+   "date": "2026-10-29",
+   "time": "20:30:00",
+   "url": "https://www.ticketweb.com/event/failure-the-rising-music-box-tickets/14865793",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "It's A 2000's (Halloween) Party: San Diego (18+ w/ ID)",
+   "date": "2026-10-29",
+   "time": "22:00:00",
+   "url": "https://www.ticketmaster.com/its-a-2000s-halloween-party-san-san-diego-california-10-29-2026/event/0A006523CA3ECA4B",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
