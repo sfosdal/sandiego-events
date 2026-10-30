@@ -101,7 +101,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.snapdragonstadium.com&sz=128',
       tm: { id: 'KovZ917AIoi', match: 'snapdragon', fallbackUrl: 'https://www.snapdragonstadium.com/events', exclude: /parking|tour/i },
       // the stadium's own listing (Carbonhouse: /events/all is the whole list on one page; a club's season is one card with a date range, dropped — the home games come from the Teams schedules), secondary behind Ticketmaster (2026-10-27)
-      feed: { kind: 'cards', secondary: true, url: 'https://www.snapdragonstadium.com/events/all', drop: /^san diego state football|^san diego fc\b|season tickets?|suites?\b/i,
+      feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.snapdragonstadium.com/events/all', drop: /^san diego state football|^san diego fc\b|season tickets?|suites?\b/i,
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<div class="date">([\s\S]*?)<\/div>/ },
       alias: /snapdragon stadium/i,
     },
@@ -115,7 +115,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.pechangaarenasd.com&sz=128',
       tm: { id: 'KovZpZAEd1EA', match: 'pechanga arena', fallbackUrl: 'https://www.pechangaarenasd.com/events', exclude: /parking/i },
       // the arena's own listing (Carbonhouse /events/all: every event, the date only — no clock on the list page and none machine-readable on the event pages; the RSS's clocks are 3 h off), secondary behind Ticketmaster; the Gulls' games come from the AHL schedule (2026-10-27)
-      feed: { kind: 'cards', secondary: true, url: 'https://www.pechangaarenasd.com/events/all', drop: /^san diego gulls\b|parking/i,
+      feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.pechangaarenasd.com/events/all', drop: /^san diego gulls\b|parking/i,
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<div class="date">([\s\S]*?)<\/div>/ },
       alias: /pechanga arena|valley view casino center|san diego sports arena/i,
     },
@@ -143,7 +143,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=sandiegotheatres.org&sz=128',
       tm: { id: 'KovZpZAEA6kA', match: 'civic theatre', fallbackUrl: 'https://sandiegotheatres.org/events/' },
       // San Diego Theatres' own list (Carbonhouse /events/all: both houses, the Civic's cards kept by `venues`; a Broadway run is one card with a date range), secondary behind Ticketmaster (2026-10-27)
-      feed: { kind: 'cards', secondary: true, url: 'https://www.sandiegotheatres.org/events/all', venues: /civic/i,
+      feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.sandiegotheatres.org/events/all', venues: /civic/i,
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<div class="date">([\s\S]*?)<\/div>/, place: /<div class="venue_title"[^>]*>([^<]+)</ },
       alias: /civic theat/i,
     },
@@ -157,7 +157,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=sandiegotheatres.org&sz=128',
       tm: { id: 'KovZpZAEAlIA', match: 'balboa theatre', fallbackUrl: 'https://sandiegotheatres.org/events/' },
       // San Diego Theatres' own list, the Balboa's cards (see the Civic), secondary behind Ticketmaster (2026-10-27)
-      feed: { kind: 'cards', secondary: true, url: 'https://www.sandiegotheatres.org/events/all', venues: /balboa/i,
+      feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.sandiegotheatres.org/events/all', venues: /balboa/i,
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<div class="date">([\s\S]*?)<\/div>/, place: /<div class="venue_title"[^>]*>([^<]+)</ },
       alias: /balboa theat/i,
     },
