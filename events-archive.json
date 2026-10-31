@@ -1471,6 +1471,136 @@
    "url": "https://www.ticketmaster.com/its-a-2000s-halloween-party-san-san-diego-california-10-29-2026/event/0A006523CA3ECA4B",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Chickenbone Slim",
+   "date": "2026-10-30",
+   "time": "17:00",
+   "url": "https://www.humphreysbackstagelive.com/event/chickenbone-slim-2/2026-10-30/",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Atomic Groove's Halloween Boo Bash Dance Party Happy Hour",
+   "date": "2026-10-30",
+   "time": "17:30:00",
+   "url": "https://www.ticketweb.com/event/atomic-grooves-halloween-boo-bash-belly-up-tickets/14999913",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Knox",
+   "date": "2026-10-30",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/knox-san-diego-california-10-30-2026/event/0A0064EA509C1A77",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Missio",
+   "date": "2026-10-30",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/missio-san-diego-california-10-30-2026/event/0A00650B8F9579D4",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Mom Jeans",
+   "date": "2026-10-30",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/mom-jeans-san-diego-california-10-30-2026/event/0B0064A5C7667A75",
+   "type": "concert"
+  },
+  {
+   "venue": "Petco Park",
+   "title": "Knocked Loose & Denzel Curry",
+   "date": "2026-10-30",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/knocked-loose-denzel-curry-san-diego-california-10-30-2026/event/0A0064B65F291D73",
+   "type": "concert"
+  },
+  {
+   "venue": "North Island Credit Union Amphitheatre",
+   "title": "The B-52s * Devo:  Cosmic DE-EVOLUTION Tour",
+   "date": "2026-10-30",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-b52s-devo-cosmic-deevolution-tour-chula-vista-california-10-30-2026/event/0A0064D19C1189F1",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Kevin Stone",
+   "date": "2026-10-30",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/kevin-stone-temecula-california-10-30-2026/event/0A00650ECD92B1FE",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "The Rady Shell",
+   "title": "Sound of Two Cities: A Free Community Concert",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "url": "https://www.theshell.org/performances/sound-of-two-cities/",
+   "type": "concert"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Fleetwood Max",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://www.humphreysbackstagelive.com/event/fleetwood-max/2026-10-30/",
+   "type": "concert"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "Yandel - SINFÓNICO",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/yandel-sinfonico-san-diego-california-10-30-2026/event/0A0064A28F5A6879",
+   "type": "concert"
+  },
+  {
+   "venue": "Cal Coast Open Air Theatre",
+   "title": "Caifanes",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/caifanes-san-diego-california-10-30-2026/event/0A0064AEAAF78592",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Engelbert Humperdinck The Celebration Tour 2026",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/engelbert-humperdinck-the-celebration-tour-2026-temecula-california-10-30-2026/event/0A0064AC96A17B85",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Dead Man's Party Halloween BASH",
+   "date": "2026-10-30",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/dead-mans-party-halloween-bash-belly-up-tickets/14103374",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Theo Katzman",
+   "date": "2026-10-30",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/theo-katzman-music-box-tickets/14902843",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Kevin Stone",
+   "date": "2026-10-30",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/kevin-stone-temecula-california-10-30-2026/event/0A00650ECD98B218",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
