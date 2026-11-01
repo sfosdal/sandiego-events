@@ -415,6 +415,7 @@
       alias: /del mar fairgrounds/i,
     },
     'Pechanga Resort Casino': {
+      geo: [33.45696, -117.10735], // 45000 Pechanga Pkwy, Temecula (Nominatim)
       area: 'town',
       capacity: 1200,
       type: 'concert',
@@ -481,7 +482,7 @@
     teams: TEAMS,
     map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
       kind: 'urban',
-      bbox: [32.528, -117.317, 33.051, -116.913], // south, west, north, east — every room, with a margin
+      bbox: [32.528, -117.317, 33.52, -116.913], // south, west, north, east — every venue, with a margin, Pechanga Resort Casino in Temecula too (2026-11-01)
       home: [32.686, -117.247, 32.804, -117.037], // the view at first: the city's own rooms; the fit button shows the whole frame
       roads: ['motorway', 'trunk', 'primary'],
       tolerance: 0.8,
@@ -490,6 +491,7 @@
         { name: 'Chula Vista', lat: 32.64005, lon: -117.08419, anchor: 'middle' },
         { name: 'Solana Beach', lat: 32.99191, lon: -117.26781, anchor: 'middle' },
         { name: 'El Cajon', lat: 32.79477, lon: -116.96253, anchor: 'middle' },
+        { name: 'Temecula', lat: 33.4936, lon: -117.1484, anchor: 'end' },
         { name: 'Del Mar', lat: 32.95949, lon: -117.26531, anchor: 'middle' },
       ],
     },
