@@ -1747,6 +1747,104 @@
    "url": "https://www.ticketmaster.com/kevin-stone-temecula-california-10-31-2026/event/0A00650ECDA2B230",
    "age21": true,
    "type": "arts"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Samantha Fish",
+   "date": "2026-11-01",
+   "time": "",
+   "url": "https://bellyup.com/calendar/14203664/samantha-fish-paper-doll-live-world-tour-w-cody-dickinson-of-north-mississippi-allstars",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "INOHA",
+   "date": "2026-11-01",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14204764/inoha-this-might-be-useful-tour-w-buddha-trixie-flight-by-nothing/",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Allegro Music Rock Bands",
+   "date": "2026-11-01",
+   "time": "16:00",
+   "url": "https://www.allegromusicsd.com/event-details-registration/allegro-rock-bands-house-of-blues",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Josephine Starr, C.Gibbs, Crime Film, American Actor in the",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "url": "https://wl.seetickets.us/event/josephine-starr-cgibbs-crime-film-american-actor-in-the/705513?afflky=Casbah",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "San Diego Gulls vs. Colorado Eagles",
+   "date": "2026-11-01",
+   "time": "17:00:00",
+   "url": "https://www.pechangaarenasd.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Jacobs Music Center",
+   "title": "The Ring in Concert",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "url": "https://www.sandiegosymphony.org/performances/the-ring-in-concert/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Johnny Britt – “You Are Beautiful” Tour",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/johnny-britt-you-are-beautiful-tour/",
+   "type": "concert"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Tusk: The Classic Fleetwood Mac Tribute",
+   "date": "2026-11-01",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/tusk-the-classic-fleetwood-mac-tribute-san-diego-california-11-01-2026/event/0A006497D3866BC7",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Montell Fish - The Nest Tour",
+   "date": "2026-11-01",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/montell-fish-the-nest-tour-san-diego-california-11-01-2026/event/0A0065126D442E19",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Casbah/Belly Up/Desert Daze Present: The Black Angels",
+   "date": "2026-11-01",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/casbahbelly-updesert-daze-present-the-black-san-diego-california-11-01-2026/event/0B006489B3AA4759",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "INOHA - This Might Be Useful Tour w/ Buddha Trixie & Flight By Nothing",
+   "date": "2026-11-01",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/inoha-this-might-music-box-tickets/14204764",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Odette Quesada & Ogie Alcasid Q&A",
+   "date": "2026-11-01",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/odette-quesada-ogie-alcasid-qa-temecula-california-11-01-2026/event/0A00653DD532554A",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-31T05:10:35.216Z"
   }
  ]
 }
