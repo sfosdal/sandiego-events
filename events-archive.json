@@ -1845,6 +1845,30 @@
    "type": "concert",
    "status": "cancelled",
    "statusSince": "2026-10-31T05:10:35.216Z"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Women's Basketball vs. Cal State Fullerton Titans Women's Basketball",
+   "date": "2026-11-02",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-womens-basketball-san-diego-california-11-02-2026/event/0A006553C976A081",
+   "type": "sports"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "The Haunt - \"The Ghost Tour\"",
+   "date": "2026-11-02",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/the-haunt-the-ghost-tour-san-diego-california-11-02-2026/event/0A0064F9CF209F3D",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Medium Build Presents The King of Having Fun on Tour",
+   "date": "2026-11-02",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/medium-build-presents-the-king-of-san-diego-california-11-02-2026/event/0B0064D6DD254796",
+   "type": "concert"
   }
  ]
 }
