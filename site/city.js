@@ -429,10 +429,52 @@
         item: /<li class="grid-item content-tile/, title: /<h2 class="heading-small">\s*<a href="([^"]+)"[^>]*>\s*([^<]+?)\s*<\/a>/, when: /<ul class="details-list">\s*<li>\s*([^<]+?)\s*<\/li>\s*<span class="bar"><\/span>\s*<li>([^<]*)<\/li>/ },
       alias: /pechanga resort/i,
     },
+    // --- On DICE (2026-11-03, Steve: "add all dice venues in cities/neighborhoods covered"): every venue on DICE's city page inside the map, read from its public DICE venue page ---
+    'Soda Bar': { // on DICE (3615 El Cajon Blvd, San Diego, CA 92104); its DICE venue page is the listing (2026-11-03)
+      geo: [32.75497, -117.11549],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-sodabar',
+      color: '#ea86aa',
+      url: 'https://www.sodabarmusic.com/',
+      icon: 'https://www.google.com/s2/favicons?domain=www.sodabarmusic.com&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/4619' },
+    },
+    'Quartyard': { // on DICE (1301 Market St, San Diego, CA 92101); its DICE venue page is the listing (2026-11-03)
+      geo: [32.71137, -117.15262],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-quartyard',
+      color: '#a8d8f0',
+      url: 'https://quartyardsd.com/',
+      icon: 'https://www.google.com/s2/favicons?domain=quartyardsd.com&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/7307' },
+    },
+    'The Che Cafe Collective': { // on DICE (3035 Theatre District Drive, La Jolla, California 92093); its DICE venue page is the listing (2026-11-03)
+      geo: [32.87287, -117.23936],
+      area: 'town',
+      capacity: 200,
+      type: 'concert',
+      cssVar: '--v-checafecollect',
+      color: '#e3a363',
+      url: 'http://checafe.org',
+      icon: 'https://www.google.com/s2/favicons?domain=checafe.org&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/17467' },
+    },
+    'Tender Hooligan': { // on DICE (221 3rd Avenue, Suite 101, Chula Vista, California 91910); its DICE venue page is the listing (2026-11-03)
+      geo: [32.64406, -117.08063],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-tenderhooligan',
+      color: '#86ead6',
+      url: 'https://dice.fm/venue/20315',
+      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/20315' },
+    },
   };
 
   // The usual view: every room on — nothing here lists nightly bar programs
-  var DEFAULT_ON = ["Petco Park", "Snapdragon Stadium", "Pechanga Arena", "Viejas Arena", "San Diego Civic Theatre", "Balboa Theatre", "Jacobs Music Center", "The Rady Shell", "The Old Globe", "Humphreys Concerts by the Bay", "Humphreys Backstage Live", "Cal Coast Open Air Theatre", "North Island Credit Union Amphitheatre", "House of Blues", "Voodoo Room", "The Observatory North Park", "Belly Up", "SOMA", "Music Box", "Casbah", "The Magnolia", "Brick by Brick", "The Sound", "Del Mar Fairgrounds", "Pechanga Resort Casino"];
+  var DEFAULT_ON = ["Petco Park", "Snapdragon Stadium", "Pechanga Arena", "Viejas Arena", "San Diego Civic Theatre", "Balboa Theatre", "Jacobs Music Center", "The Rady Shell", "The Old Globe", "Humphreys Concerts by the Bay", "Humphreys Backstage Live", "Cal Coast Open Air Theatre", "North Island Credit Union Amphitheatre", "House of Blues", "Voodoo Room", "The Observatory North Park", "Belly Up", "SOMA", "Music Box", "Casbah", "The Magnolia", "Brick by Brick", "The Sound", "Del Mar Fairgrounds", "Pechanga Resort Casino", 'Soda Bar', 'Quartyard', 'The Che Cafe Collective', 'Tender Hooligan'];
   var DEFAULT_OFF = [];
   var PREFS_KNOWN_FROM = null; // no default-off venue yet, so nothing for saved prefs to be told about
 
@@ -451,12 +493,13 @@
   // adding an entry adds a bit and every existing code keeps meaning what
   // it meant; removing or reordering one changes every link out there.
   // 39 slots from the first build: 8 base-36 digits.
-  var CODE_LENGTH = 8;
+  var CODE_LENGTH = 9; // 2026-11-03: 43 slots with the DICE venues
   var REGISTRY = [
     ['venue', 'Petco Park'], ['venue', 'Snapdragon Stadium'], ['venue', 'Pechanga Arena'], ['venue', 'Viejas Arena'], ['venue', 'San Diego Civic Theatre'], ['venue', 'Balboa Theatre'], ['venue', 'Jacobs Music Center'], ['venue', 'The Rady Shell'], ['venue', 'The Old Globe'], ['venue', 'Humphreys Concerts by the Bay'], ['venue', 'Humphreys Backstage Live'], ['venue', 'Cal Coast Open Air Theatre'], ['venue', 'North Island Credit Union Amphitheatre'], ['venue', 'House of Blues'], ['venue', 'Voodoo Room'], ['venue', 'The Observatory North Park'], ['venue', 'Belly Up'], ['venue', 'SOMA'], ['venue', 'Music Box'], ['venue', 'Casbah'], ['venue', 'The Magnolia'], ['venue', 'Brick by Brick'], ['venue', 'The Sound'], ['venue', 'Del Mar Fairgrounds'], ['venue', 'Pechanga Resort Casino'],
     ['badge', 'concert'], ['badge', 'sports'], ['badge', 'arts'], ['badge', 'community'],
     ['team', 'padres'], ['team', 'sdfc'], ['team', 'wave'], ['team', 'aztecs'], ['team', 'aztecsmbb'], ['team', 'gulls'],
     ['cap', 'stadium'], ['cap', 'arena'], ['cap', 'hall'], ['cap', 'room'],
+    ['venue', 'Soda Bar'], ['venue', 'Quartyard'], ['venue', 'The Che Cafe Collective'], ['venue', 'Tender Hooligan'], // 2026-11-03: the DICE venues, 43 slots, 9 digits
   ];
 
   // The words the page uses for the place
