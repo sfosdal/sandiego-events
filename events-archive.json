@@ -1869,6 +1869,83 @@
    "time": "19:00:00",
    "url": "https://www.ticketmaster.com/medium-build-presents-the-king-of-san-diego-california-11-02-2026/event/0B0064D6DD254796",
    "type": "concert"
+  },
+  {
+   "venue": "SOMA",
+   "title": "Kurt Travis",
+   "date": "2026-11-03",
+   "time": "18:00",
+   "url": "https://www.somasandiego.com/event/kurt-travis-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Mens Basketball vs. Cal State Fullerton Men's Basketball",
+   "date": "2026-11-03",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-mens-basketball-san-diego-california-11-03-2026/event/0A00654CC4F17BC7",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "YouTube"
+    ]
+   }
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-03",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-03-2026/event/0A0064F8958465B2",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Spite",
+   "date": "2026-11-03",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/spite-san-diego-california-11-03-2026/event/0A0064EACE03C39F",
+   "type": "concert"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Dan and Phil: Hard Launch World Tour",
+   "date": "2026-11-03",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/dan-and-phil-hard-launch-world-san-diego-california-11-03-2026/event/0A0064C2786C3F0B",
+   "type": "arts"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Fitz and The Tantrums – Picking Up The Pieces In Its Entirety",
+   "date": "2026-11-03",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935873",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rady Shell",
+   "title": "Tom Jones: Come Gather Round",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "url": "https://www.theshell.org/performances/tom-jones/",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Clay Street Unit, Poor Thing",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "url": "https://wl.seetickets.us/event/clay-street-unit-poor-thing/698059?afflky=Casbah",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Yuki Chiba - First North America Headline Tour w/ DRAM",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/yuki-chiba-first-music-box-tickets/14218764",
+   "type": "concert"
   }
  ]
 }
