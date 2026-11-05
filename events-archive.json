@@ -1946,6 +1946,87 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/yuki-chiba-first-music-box-tickets/14218764",
    "type": "concert"
+  },
+  {
+   "venue": "SOMA",
+   "title": "bunii",
+   "date": "2026-11-04",
+   "time": "",
+   "url": "https://www.somasandiego.com/event/bunii/",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Six60",
+   "date": "2026-11-04",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14249494/six60-right-here-right-now-north-america-2026-w-we-the-commas/",
+   "type": "concert"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Soul Addiction",
+   "date": "2026-11-04",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/soul-addiction/",
+   "type": "arts"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Chris Acker, Kinsey Lee",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a710644c0310e000159cb24",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-04",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-04-2026/event/0A0064F8958965C4",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-04",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "bunii",
+   "date": "2026-11-04",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/bunii-san-diego-california-11-04-2026/event/0A00655AABAC5DD3",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Fitz and The Tantrums - Greatest Hits Show",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935903",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Six60 - Right Here Right Now - North America 2026 w/ We the Commas",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/six60-right-here-music-box-tickets/14249494",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "Lyle Lovett & His Small Large Band",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/lyle-lovett-his-small-large-band-del-mar-california-11-04-2026/event/0A0064D663FB1991",
+   "type": "concert"
   }
  ]
 }
