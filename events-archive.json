@@ -2027,6 +2027,104 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/lyle-lovett-his-small-large-band-del-mar-california-11-04-2026/event/0A0064D663FB1991",
    "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Private Event",
+   "date": "2026-11-05",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14751333/closed-for-private-event/",
+   "type": "concert"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Women's Basketball vs. North Texas Mean Green Womens Basketball",
+   "date": "2026-11-05",
+   "time": "11:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-womens-basketball-san-diego-california-11-05-2026/event/0A006553C97AA08B",
+   "type": "sports"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Rolando Rose",
+   "date": "2026-11-05",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/rolando-rose/2026-11-05/",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Prince Daddy & the Hyena",
+   "date": "2026-11-05",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/prince-daddy-the-hyena-san-diego-california-11-05-2026/event/0A0064FFAD6BC81D",
+   "type": "concert"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Alex Cameron, Josh da Costa",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "url": "https://dice.fm/event/69fa3cf6e8d93900012a2c25",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Eelke Kleijn",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/eelke-kleijn-san-diego-california-11-05-2026/event/0A00652A84664450",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Jose Madero - USA Tour 2026",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-san-diego-california-11-05-2026/event/0B0064D2AD5834D0",
+   "type": "concert"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-05",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-05-2026/event/0A0064F8958E65C9",
+   "type": "arts"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Don McLean - Celebrating America’s 250th Birthday",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/don-mclean-celebrating-belly-up-tickets/14140644",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Daniel Eachus",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/daniel-eachus-temecula-california-11-05-2026/event/0A006524B865BC11",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Supertaste (21 and Over)",
+   "date": "2026-11-05",
+   "time": "20:30:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
   }
  ]
 }
