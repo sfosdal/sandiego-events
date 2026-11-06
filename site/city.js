@@ -167,9 +167,9 @@
       type: 'arts',
       cssVar: '--v-jacobs',
       color: '#9fea86',
-      url: 'https://www.sandiegosymphony.org/',
+      url: 'https://www.sandiegosymphony.org/performances/performances-calendar',
       icon: 'https://www.google.com/s2/favicons?domain=www.sandiegosymphony.org&sz=128',
-      tm: { id: 'KovZpZAJ6d1A', match: 'jacobs music center', fallbackUrl: 'https://www.sandiegosymphony.org/', secondary: true }, // Ticketmaster, read behind the Symphony's own calendar — every venue both ways (Steve, 2026-10-26)
+      tm: { id: 'KovZpZAJ6d1A', match: 'jacobs music center', fallbackUrl: 'https://www.sandiegosymphony.org/performances/performances-calendar', secondary: true }, // Ticketmaster, read behind the Symphony's own calendar — every venue both ways (Steve, 2026-10-26)
       // the Symphony's own calendar (Tessitura: the page embeds every performance as a JS object — title, location, moreDetailsUrl, performanceDate as the hall's wall clock; its Civic Theatre and tour dates kept out by `venues`), LEADS (2026-10-27)
       feed: { kind: 'cards', url: 'https://www.sandiegosymphony.org/performances/performances-calendar', venues: /jacobs music center/i,
         item: /\{performanceId:/, title: /(?=[\s\S]*?moreDetailsUrl:"([^"]*)")[\s\S]*?\btitle:"([^"]*)"/, when: /performanceDate:"([^"]*)"/, place: /location:"([^"]*)"/ },
@@ -181,9 +181,9 @@
       type: 'concert',
       cssVar: '--v-shell',
       color: '#8a86ea',
-      url: 'https://www.theshell.org/',
+      url: 'https://www.theshell.org/performances/rady-shell-calendar/',
       icon: 'https://www.google.com/s2/favicons?domain=www.theshell.org&sz=128',
-      tm: { id: 'KovZ917AJ-O', match: 'rady shell', fallbackUrl: 'https://www.theshell.org/', exclude: /parking/i, secondary: true }, // Ticketmaster, read behind the Shell's own calendar — every venue both ways (Steve, 2026-10-26)
+      tm: { id: 'KovZ917AJ-O', match: 'rady shell', fallbackUrl: 'https://www.theshell.org/performances/rady-shell-calendar/', exclude: /parking/i, secondary: true }, // Ticketmaster, read behind the Shell's own calendar — every venue both ways (Steve, 2026-10-26)
       // the Shell's own calendar (the Symphony's Tessitura page on theshell.org: every performance a JS object, performanceDate the wall clock), LEADS (2026-10-27)
       feed: { kind: 'cards', url: 'https://www.theshell.org/performances/rady-shell-calendar/', venues: /rady shell/i,
         item: /\{performanceId:/, title: /(?=[\s\S]*?moreDetailsUrl:"([^"]*)")[\s\S]*?\btitle:"([^"]*)"/, when: /performanceDate:"([^"]*)"/, place: /location:"([^"]*)"/ },
@@ -208,9 +208,9 @@
       type: 'concert',
       cssVar: '--v-humphreys',
       color: '#86eac4',
-      url: 'https://www.humphreysconcerts.com/',
+      url: 'https://www.humphreysconcerts.com/schedule.cfm',
       icon: 'https://www.google.com/s2/favicons?domain=www.humphreysconcerts.com&sz=128',
-      tm: { id: 'KovZpZAJ7AIA', match: 'humphreys concerts', fallbackUrl: 'https://www.humphreysconcerts.com/' },
+      tm: { id: 'KovZpZAJ7AIA', match: 'humphreys concerts', fallbackUrl: 'https://www.humphreysconcerts.com/schedule.cfm' },
       // the venue's own schedule page (ColdFusion rows: the show's name and Ticketmaster link as data attributes, "Tue, Oct 27 7:30 PM" printed; no year — the nearest forward), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://www.humphreysconcerts.com/schedule.cfm',
         item: /<!-- =+\s+BEGINNING OF EVENT ROW/, title: /(?=[\s\S]*?data-buytixlink="([^"]*)")[\s\S]*?data-eventname="([^"]*)"/, when: /<div class="text-center ">([^<]*)<\/div>/ },
@@ -223,9 +223,9 @@
       type: 'concert',
       cssVar: '--v-backstage',
       color: '#e186ea',
-      url: 'https://www.humphreysbackstagelive.com/',
+      url: 'https://www.humphreysbackstagelive.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=www.humphreysbackstagelive.com&sz=128',
-      tm: { id: 'KovZpZAEeFFA', match: 'backstage', fallbackUrl: 'https://www.humphreysbackstagelive.com/', secondary: true }, // Ticketmaster, read behind the club's own calendar — every venue both ways (Steve, 2026-10-26)
+      tm: { id: 'KovZpZAEeFFA', match: 'backstage', fallbackUrl: 'https://www.humphreysbackstagelive.com/events/', secondary: true }, // Ticketmaster, read behind the club's own calendar — every venue both ways (Steve, 2026-10-26)
       // the club's own calendar (The Events Calendar REST; its "Open – No live Music" and bare "Concert Night" placeholders dropped), LEADS (2026-10-27)
       feed: { kind: 'tribe', url: 'https://www.humphreysbackstagelive.com/wp-json/tribe/events/v1/events', drop: /no live music|^concert night$|^(open|closed)\b|^private event/i },
       alias: /humphreys backstage/i,
@@ -308,9 +308,9 @@
       type: 'concert',
       cssVar: '--v-bellyup',
       color: '#eac886',
-      url: 'https://bellyup.com/',
+      url: 'https://bellyup.com/shows',
       icon: 'https://www.google.com/s2/favicons?domain=bellyup.com&sz=128',
-      tm: { id: 'KovZpZAAAknA', match: 'belly up', fallbackUrl: 'https://bellyup.com/' },
+      tm: { id: 'KovZpZAAAknA', match: 'belly up', fallbackUrl: 'https://bellyup.com/shows' },
       // the club's own shows page (TicketWeb widget cards: the date — no clock on the list — the headliner and the show page; its Belly Up Presents nights at other clubs kept out by `venues`), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://bellyup.com/shows/', venues: /^belly up/i,
         item: /<div class="showBox">/, title: /<a style="text-decoration: none" href="([^"]+)">\s*<div class="sws-show-content">[\s\S]*?<span class="tw-artist[^"]*">([^<]+)<\/span>/, when: /<span class="tw-event-date">([^<]+)<\/span>/, place: /<span class="pipeBreak"><br><\/span>\s*([^<]+?)\s*</ },
@@ -323,9 +323,9 @@
       type: 'concert',
       cssVar: '--v-soma',
       color: '#86eae6',
-      url: 'https://somasandiego.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=somasandiego.com&sz=128',
-      tm: { id: 'KovZpZA1teEA', match: 'soma', fallbackUrl: 'https://somasandiego.com/' },
+      url: 'https://www.somasandiego.com/events/',
+      icon: 'https://www.google.com/s2/favicons?domain=www.somasandiego.com&sz=128',
+      tm: { id: 'KovZpZA1teEA', match: 'soma', fallbackUrl: 'https://www.somasandiego.com/events/' },
       // the venue's own events page (WordPress cards: month / day / year spans, "Mainstage - 7pm" or "Doors 6 pm" as the clock), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://www.somasandiego.com/events/',
         item: /<li class="event-(?:onsale|soldout)">/, title: /<h3><a href="([^"]+)">([^<]+)<\/a><\/h3>/, when: /<span class="event-month">([^<]+)<\/span>\s*<span class="event-day">([^<]+)<\/span>\s*<span class="event-year">([^<]+)<\/span>[\s\S]*?<div class="event-time">([^<]*)<\/div>/ },
@@ -338,9 +338,9 @@
       type: 'concert',
       cssVar: '--v-musicbox',
       color: '#ea86d0',
-      url: 'https://musicboxsd.com/',
+      url: 'https://musicboxsd.com/shows/',
       icon: 'https://www.google.com/s2/favicons?domain=musicboxsd.com&sz=128',
-      tm: { id: 'KovZ917AfM7', match: 'music box', fallbackUrl: 'https://musicboxsd.com/' },
+      tm: { id: 'KovZ917AfM7', match: 'music box', fallbackUrl: 'https://musicboxsd.com/shows/' },
       // the venue's own shows page (TicketWeb cards: "Wed, Oct 28" — no clock on the list — the headliner and the show page), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://musicboxsd.com/shows/',
         item: /<article class="event-card">/, title: /<div class="tw-opening-act">\s*<a href="([^"]+)">\s*<span class="tw-artist[^"]*">([^<]+)<\/span>/, when: /<div class="date">\s*([^<]+?)\s*<\/div>/ },
@@ -436,8 +436,8 @@
       type: 'concert',
       cssVar: '--v-sodabar',
       color: '#ea86aa',
-      url: 'https://www.sodabarmusic.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.sodabarmusic.com&sz=128',
+      url: 'https://sodabarmusic.com/',
+      icon: 'https://www.google.com/s2/favicons?domain=sodabarmusic.com&sz=128',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/4619' },
     },
     'Quartyard': { // on DICE (1301 Market St, San Diego, CA 92101); its DICE venue page is the listing (2026-11-03)
@@ -446,7 +446,7 @@
       type: 'concert',
       cssVar: '--v-quartyard',
       color: '#a8d8f0',
-      url: 'https://quartyardsd.com/',
+      url: 'https://quartyardsd.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=quartyardsd.com&sz=128',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/7307' },
     },
