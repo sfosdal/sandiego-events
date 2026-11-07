@@ -2125,6 +2125,170 @@
    "time": "20:30:00",
    "url": "https://www.casbahmusic.com/",
    "type": "concert"
+  },
+  {
+   "venue": "The Rady Shell",
+   "title": "Nonstop Presents: Hugel “Make The Girls Dance”",
+   "date": "2026-11-06",
+   "time": "15:00",
+   "url": "https://www.theshell.org/performances/hugel/",
+   "type": "concert"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Mango Bay",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "url": "https://www.humphreysbackstagelive.com/event/mango-bay/2026-11-06/",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Electric Waste Band Happy Hour - A Benefit for The Bill Walton Foundation",
+   "date": "2026-11-06",
+   "time": "17:30:00",
+   "url": "https://www.ticketweb.com/event/electric-waste-band-happy-hour-belly-up-tickets/14336674",
+   "type": "concert"
+  },
+  {
+   "venue": "Jacobs Music Center",
+   "title": "Fleet Week Marine Band Concert",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "url": "https://www.sandiegosymphony.org/performances/marine-band-concert/",
+   "type": "arts"
+  },
+  {
+   "venue": "SOMA",
+   "title": "The Story So Far",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "url": "https://www.somasandiego.com/event/the-story-so-far/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Spill It: 3 Min Mic - 21+",
+   "date": "2026-11-06",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/spill-it-3-min-mic-21-san-diego-california-11-06-2026/event/0B006549AE237DF3",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Hit The Lights, Forever Came Calling, Fox Royale",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "url": "https://dice.fm/event/69deb2c0395a3400015928a0",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Snapdragon Stadium",
+   "title": "NWSL Quarterfinal: San Diego Wave FC vs. Utah Royals FC",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/nwsl-quarterfinal-san-diego-wave-fc-san-diego-california-11-06-2026/event/0A00654E96684425",
+   "type": "sports"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Taylor Bickett",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/taylor-bickett-san-diego-california-11-06-2026/event/0A006495C59D1899",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Daniel Eachus",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/daniel-eachus-temecula-california-11-06-2026/event/0A006524B86ABC1C",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Jordan Jensen",
+   "date": "2026-11-06",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jordan-jensen-el-cajon-california-11-06-2026/event/0B0064AECCA56363",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Maverick",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://www.humphreysbackstagelive.com/event/maverick-3/2026-11-06/",
+   "type": "arts"
+  },
+  {
+   "venue": "Tender Hooligan",
+   "title": "Unofficial Dia De Los Deftones Pre-Show",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ad650d2fa2b1b0001bfad87",
+   "type": "concert"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-06-2026/event/0A0064F8959365D5",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "R&B Only Live - San Diego, CA",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.universe.com/events/r-b-only-live-san-diego-ca-tickets-LJVNZW?ref=ticketmaster",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "The Billy Joel Legacy - A Tribute Experience",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/the-billy-joel-legacy-the-sound-tickets/14248134",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "DICE, The Back Alley",
+   "date": "2026-11-06",
+   "time": "20:30",
+   "url": "https://wl.seetickets.us/event/dice-the-back-alley/690071?afflky=Casbah",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Paul Oakenfold + The Crystal Method - Mission Underground 2026 Tour w/ Liquid Todd",
+   "date": "2026-11-06",
+   "time": "20:30:00",
+   "url": "https://www.ticketweb.com/event/paul-oakenfold-the-crystal-music-box-tickets/14267124",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Ozomatli, SeaPoodle",
+   "date": "2026-11-06",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/ozomatli-seapoodle-belly-up-tickets/14288554",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Daniel Eachus",
+   "date": "2026-11-06",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/daniel-eachus-temecula-california-11-06-2026/event/0A006524B86CBC25",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
