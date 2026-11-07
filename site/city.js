@@ -87,7 +87,7 @@
       cssVar: '--v-petco',
       color: '#ea8686',
       url: 'https://www.mlb.com/padres/schedule',
-      icon: 'https://www.google.com/s2/favicons?domain=www.mlb.com&sz=128',
+      icon: 'marks/venues/mlb.com.png',
       tm: { id: 'KovZpa4cFe', match: 'petco park', fallbackUrl: 'https://www.mlb.com/padres/schedule', exclude: /parking|tour/i },
       alias: /petco park/i,
     },
@@ -98,7 +98,7 @@
       cssVar: '--v-snapdragon',
       color: '#86eaa3',
       url: 'https://www.snapdragonstadium.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.snapdragonstadium.com&sz=128',
+      icon: 'marks/venues/snapdragonstadium.com.png',
       tm: { id: 'KovZ917AIoi', match: 'snapdragon', fallbackUrl: 'https://www.snapdragonstadium.com/events', exclude: /parking|tour/i },
       // the stadium's own listing (Carbonhouse: /events/all is the whole list on one page; a club's season is one card with a date range, dropped — the home games come from the Teams schedules), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.snapdragonstadium.com/events/all', drop: /^san diego state football|^san diego fc\b|season tickets?|suites?\b/i,
@@ -112,7 +112,7 @@
       cssVar: '--v-pechanga',
       color: '#c086ea',
       url: 'https://www.pechangaarenasd.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.pechangaarenasd.com&sz=128',
+      icon: 'marks/venues/pechangaarenasd.com.png',
       tm: { id: 'KovZpZAEd1EA', match: 'pechanga arena', fallbackUrl: 'https://www.pechangaarenasd.com/events', exclude: /parking/i },
       // the arena's own listing (Carbonhouse /events/all: every event, the date only — no clock on the list page and none machine-readable on the event pages; the RSS's clocks are 3 h off), secondary behind Ticketmaster; the Gulls' games come from the AHL schedule (2026-10-27)
       feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.pechangaarenasd.com/events/all', drop: /^san diego gulls\b|parking/i,
@@ -126,7 +126,7 @@
       cssVar: '--v-viejas',
       color: '#eadd86',
       url: 'https://as.sdsu.edu/viejas_arena/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=as.sdsu.edu&sz=128',
+      icon: 'marks/venues/as.sdsu.edu.png',
       tm: { id: 'KovZpZA6AEdA', match: 'viejas', fallbackUrl: 'https://as.sdsu.edu/viejas_arena/events/' },
       // Associated Students' own list for the arena (one card a show: "February 28, 2027" + "8:00pm"), secondary behind Ticketmaster; the Aztecs' games come from the Teams schedules (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://as.sdsu.edu/viejas_arena/events/', drop: /\b(aztecs?|sdsu|san diego state)\b/i,
@@ -140,7 +140,7 @@
       cssVar: '--v-civic',
       color: '#86d9ea',
       url: 'https://sandiegotheatres.org/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=sandiegotheatres.org&sz=128',
+      icon: 'marks/venues/sandiegotheatres.org.png',
       tm: { id: 'KovZpZAEA6kA', match: 'civic theatre', fallbackUrl: 'https://sandiegotheatres.org/events/' },
       // San Diego Theatres' own list (Carbonhouse /events/all: both houses, the Civic's cards kept by `venues`; a Broadway run is one card with a date range), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.sandiegotheatres.org/events/all', venues: /civic/i,
@@ -154,7 +154,7 @@
       cssVar: '--v-balboa',
       color: '#ea86bc',
       url: 'https://sandiegotheatres.org/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=sandiegotheatres.org&sz=128',
+      icon: 'marks/venues/sandiegotheatres.org.png',
       tm: { id: 'KovZpZAEAlIA', match: 'balboa theatre', fallbackUrl: 'https://sandiegotheatres.org/events/' },
       // San Diego Theatres' own list, the Balboa's cards (see the Civic), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.sandiegotheatres.org/events/all', venues: /balboa/i,
@@ -168,7 +168,7 @@
       cssVar: '--v-jacobs',
       color: '#9fea86',
       url: 'https://www.sandiegosymphony.org/performances/performances-calendar',
-      icon: 'https://www.google.com/s2/favicons?domain=www.sandiegosymphony.org&sz=128',
+      icon: 'marks/venues/sandiegosymphony.org.jpg',
       tm: { id: 'KovZpZAJ6d1A', match: 'jacobs music center', fallbackUrl: 'https://www.sandiegosymphony.org/performances/performances-calendar', secondary: true }, // Ticketmaster, read behind the Symphony's own calendar — every venue both ways (Steve, 2026-10-26)
       // the Symphony's own calendar (Tessitura: the page embeds every performance as a JS object — title, location, moreDetailsUrl, performanceDate as the hall's wall clock; its Civic Theatre and tour dates kept out by `venues`), LEADS (2026-10-27)
       feed: { kind: 'cards', url: 'https://www.sandiegosymphony.org/performances/performances-calendar', venues: /jacobs music center/i,
@@ -182,7 +182,7 @@
       cssVar: '--v-shell',
       color: '#8a86ea',
       url: 'https://www.theshell.org/performances/rady-shell-calendar/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.theshell.org&sz=128',
+      icon: 'marks/venues/theshell.org.jpg',
       tm: { id: 'KovZ917AJ-O', match: 'rady shell', fallbackUrl: 'https://www.theshell.org/performances/rady-shell-calendar/', exclude: /parking/i, secondary: true }, // Ticketmaster, read behind the Shell's own calendar — every venue both ways (Steve, 2026-10-26)
       // the Shell's own calendar (the Symphony's Tessitura page on theshell.org: every performance a JS object, performanceDate the wall clock), LEADS (2026-10-27)
       feed: { kind: 'cards', url: 'https://www.theshell.org/performances/rady-shell-calendar/', venues: /rady shell/i,
@@ -196,7 +196,7 @@
       cssVar: '--v-globe',
       color: '#eaa786',
       url: 'https://www.theoldglobe.org/calendar/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.theoldglobe.org&sz=128',
+      icon: 'marks/venues/theoldglobe.org.png',
       tm: { id: 'ZFr9jZe171', match: 'old globe', fallbackUrl: 'https://www.theoldglobe.org/calendar/' },
       alias: /old globe/i,
     },
@@ -209,7 +209,6 @@
       cssVar: '--v-humphreys',
       color: '#86eac4',
       url: 'https://www.humphreysconcerts.com/schedule.cfm',
-      icon: 'https://www.google.com/s2/favicons?domain=www.humphreysconcerts.com&sz=128',
       tm: { id: 'KovZpZAJ7AIA', match: 'humphreys concerts', fallbackUrl: 'https://www.humphreysconcerts.com/schedule.cfm' },
       // the venue's own schedule page (ColdFusion rows: the show's name and Ticketmaster link as data attributes, "Tue, Oct 27 7:30 PM" printed; no year — the nearest forward), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://www.humphreysconcerts.com/schedule.cfm',
@@ -224,7 +223,7 @@
       cssVar: '--v-backstage',
       color: '#e186ea',
       url: 'https://www.humphreysbackstagelive.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.humphreysbackstagelive.com&sz=128',
+      icon: 'marks/venues/humphreysbackstagelive.com.png',
       tm: { id: 'KovZpZAEeFFA', match: 'backstage', fallbackUrl: 'https://www.humphreysbackstagelive.com/events/', secondary: true }, // Ticketmaster, read behind the club's own calendar — every venue both ways (Steve, 2026-10-26)
       // the club's own calendar (The Events Calendar REST; its "Open – No live Music" and bare "Concert Night" placeholders dropped), LEADS (2026-10-27)
       feed: { kind: 'tribe', url: 'https://www.humphreysbackstagelive.com/wp-json/tribe/events/v1/events', drop: /no live music|^concert night$|^(open|closed)\b|^private event/i },
@@ -238,7 +237,7 @@
       cssVar: '--v-openair',
       color: '#d5ea86',
       url: 'https://as.sdsu.edu/calcoast/', // as.sdsu.edu/openairtheatre/events/ went 404 (2026-10-27)
-      icon: 'https://www.google.com/s2/favicons?domain=as.sdsu.edu&sz=128',
+      icon: 'marks/venues/as.sdsu.edu.png',
       tm: { id: 'KovZpZAJA6IA', match: 'open air theatre', fallbackUrl: 'https://as.sdsu.edu/calcoast/' },
       // Associated Students' page for the theatre (its upcoming shows as cards: "Fri, Oct 30, 2026, 8pm"; the same card twice — desktop and carousel — folds by eventKey), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://as.sdsu.edu/calcoast/',
@@ -253,7 +252,7 @@
       cssVar: '--v-nicu',
       color: '#86b7ea',
       url: 'https://www.livenation.com/venue/KovZpa2WZe/north-island-credit-union-amphitheatre-events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.livenation.com&sz=128',
+      icon: 'marks/venues/livenation.com.png',
       tm: { id: 'KovZpa2WZe', match: 'north island', fallbackUrl: 'https://www.livenation.com/venue/KovZpa2WZe/north-island-credit-union-amphitheatre-events', exclude: /parking/i },
       // the amphitheatre's only listing is Live Nation's venue page (schema.org Event markup; the season-ticket waitlist dropped), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'jsonld', secondary: true, url: 'https://www.livenation.com/venue/KovZpa2WZe/north-island-credit-union-amphitheatre-events', drop: /waitlist|season tickets?|parking/i },
@@ -267,7 +266,7 @@
       cssVar: '--v-hob',
       color: '#ea869a',
       url: 'https://www.houseofblues.com/sandiego',
-      icon: 'https://www.google.com/s2/favicons?domain=www.houseofblues.com&sz=128',
+      icon: 'marks/venues/houseofblues.com.png',
       tm: { id: 'KovZpZAEAltA', match: 'house of blues san diego', fallbackUrl: 'https://www.houseofblues.com/sandiego' },
       // the venue's own site, the Music Hall's show page (schema.org Event markup, scoped to that room; the Voodoo Room has its own page), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'jsonld', secondary: true, url: 'https://sandiego.houseofblues.com/shows/rooms/music-hall', drop: /add[- ]on|not an event ticket/i },
@@ -281,7 +280,7 @@
       cssVar: '--v-voodoo',
       color: '#86ea8e',
       url: 'https://www.houseofblues.com/sandiego',
-      icon: 'https://www.google.com/s2/favicons?domain=www.houseofblues.com&sz=128',
+      icon: 'marks/venues/houseofblues.com.png',
       tm: { id: 'KovZ917AI8j', match: 'voodoo', fallbackUrl: 'https://www.houseofblues.com/sandiego' },
       // the House of Blues site's Voodoo Room show page (schema.org Event markup, scoped to the room), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'jsonld', secondary: true, url: 'https://sandiego.houseofblues.com/shows/rooms/voodoo-room', drop: /add[- ]on|not an event ticket/i },
@@ -295,7 +294,7 @@
       cssVar: '--v-observatory',
       color: '#ab86ea',
       url: 'https://www.observatorysd.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.observatorysd.com&sz=128',
+      icon: 'marks/venues/observatorysd.com.png',
       tm: { id: 'KovZ917AxAB', match: 'observatory', fallbackUrl: 'https://www.observatorysd.com/' },
       // the venue's own show page (schema.org Event markup; VIP add-ons dropped), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'jsonld', secondary: true, url: 'https://www.observatorysd.com/shows', drop: /add[- ]on|not an event ticket|upgrade/i },
@@ -309,7 +308,7 @@
       cssVar: '--v-bellyup',
       color: '#eac886',
       url: 'https://bellyup.com/shows',
-      icon: 'https://www.google.com/s2/favicons?domain=bellyup.com&sz=128',
+      icon: 'marks/venues/bellyup.com.png',
       tm: { id: 'KovZpZAAAknA', match: 'belly up', fallbackUrl: 'https://bellyup.com/shows' },
       // the club's own shows page (TicketWeb widget cards: the date — no clock on the list — the headliner and the show page; its Belly Up Presents nights at other clubs kept out by `venues`), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://bellyup.com/shows/', venues: /^belly up/i,
@@ -324,7 +323,6 @@
       cssVar: '--v-soma',
       color: '#86eae6',
       url: 'https://www.somasandiego.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.somasandiego.com&sz=128',
       tm: { id: 'KovZpZA1teEA', match: 'soma', fallbackUrl: 'https://www.somasandiego.com/events/' },
       // the venue's own events page (WordPress cards: month / day / year spans, "Mainstage - 7pm" or "Doors 6 pm" as the clock), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://www.somasandiego.com/events/',
@@ -339,7 +337,7 @@
       cssVar: '--v-musicbox',
       color: '#ea86d0',
       url: 'https://musicboxsd.com/shows/',
-      icon: 'https://www.google.com/s2/favicons?domain=musicboxsd.com&sz=128',
+      icon: 'marks/venues/musicboxsd.com.png',
       tm: { id: 'KovZ917AfM7', match: 'music box', fallbackUrl: 'https://musicboxsd.com/shows/' },
       // the venue's own shows page (TicketWeb cards: "Wed, Oct 28" — no clock on the list — the headliner and the show page), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://musicboxsd.com/shows/',
@@ -354,7 +352,7 @@
       cssVar: '--v-casbah',
       color: '#b3ea86',
       url: 'https://casbahmusic.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=casbahmusic.com&sz=128',
+      icon: 'marks/venues/casbahmusic.com.png',
       tm: { id: 'KovZpZAaEveA', match: 'casbah', fallbackUrl: 'https://casbahmusic.com/', secondary: true }, // Ticketmaster, read behind the club's own calendar — every venue both ways (Steve, 2026-10-26)
       // the club's own calendar (SeeTickets list: "Wed Mar 3", the show time, "at Casbah" — its Casbah Presents nights at Soda Bar, the Music Box and the Belly Up kept out by `venues`), LEADS (2026-10-27)
       feed: { kind: 'cards', chrome: true, url: 'https://casbahmusic.com/calendar/', venues: /^casbah$/i,
@@ -369,7 +367,6 @@
       cssVar: '--v-magnolia',
       color: '#8696ea',
       url: 'https://www.livenation.com/venue/KovZ917AOww/the-magnolia-events', // themagnoliasd.com is a parked "Coming Soon" page (2026-10-27)
-      icon: 'https://www.google.com/s2/favicons?domain=themagnoliasd.com&sz=128',
       tm: { id: 'KovZ917AOww', match: 'magnolia', fallbackUrl: 'https://www.livenation.com/venue/KovZ917AOww/the-magnolia-events' },
       // Live Nation's venue page, the theatre's only listing (schema.org Event markup; soundcheck add-ons dropped), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'jsonld', secondary: true, url: 'https://www.livenation.com/venue/KovZ917AOww/the-magnolia-events', drop: /add[- ]on|not an event ticket|soundcheck/i },
@@ -383,7 +380,7 @@
       cssVar: '--v-brick',
       color: '#ea9286',
       url: 'https://www.brickbybrick.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.brickbybrick.com&sz=128',
+      icon: 'marks/venues/brickbybrick.com.png',
       tm: { id: 'KovZpZA67teA', match: 'brick by brick', fallbackUrl: 'https://www.brickbybrick.com/' },
       alias: /brick by brick/i,
     },
@@ -395,7 +392,6 @@
       cssVar: '--v-sound',
       color: '#86eab0',
       url: 'https://thesoundsd.com/', // thesounddelmar.com does not resolve (2026-10-27)
-      icon: 'https://www.google.com/s2/favicons?domain=thesounddelmar.com&sz=128',
       tm: { id: 'KovZ917Atrk', match: 'the sound', fallbackUrl: 'https://thesoundsd.com/' },
       // the venue's own site (TicketWeb widget cards: "Oct 27" — no clock on the list — the headliner and the event page; a show it presents elsewhere kept out by `venues`), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://thesoundsd.com/', venues: /the sound/i,
@@ -410,7 +406,7 @@
       cssVar: '--v-delmar',
       color: '#cd86ea',
       url: 'https://www.delmarfairgrounds.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.delmarfairgrounds.com&sz=128',
+      icon: 'marks/venues/delmarfairgrounds.com.png',
       tm: { id: 'KovZpZAEA6AA', match: 'del mar fairgrounds', fallbackUrl: 'https://www.delmarfairgrounds.com/events', exclude: /parking/i },
       alias: /del mar fairgrounds/i,
     },
@@ -422,7 +418,7 @@
       cssVar: '--v-pechangaresort',
       color: '#e9ea86',
       url: 'https://www.pechanga.com/entertainment',
-      icon: 'https://www.google.com/s2/favicons?domain=www.pechanga.com&sz=128',
+      icon: 'marks/venues/pechanga.com.png',
       tm: { id: 'KovZpZA1vvlA', match: 'pechanga resort', fallbackUrl: 'https://www.pechanga.com/entertainment' },
       // the resort's own Entertain page (one tile a show: "Oct 30, 2026", "8PM", the show page), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://www.pechanga.com/entertain',
@@ -437,7 +433,7 @@
       cssVar: '--v-sodabar',
       color: '#ea86aa',
       url: 'https://sodabarmusic.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=sodabarmusic.com&sz=128',
+      icon: 'marks/venues/sodabarmusic.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/4619' },
     },
     'Quartyard': { // on DICE (1301 Market St, San Diego, CA 92101); its DICE venue page is the listing (2026-11-03)
@@ -447,7 +443,7 @@
       cssVar: '--v-quartyard',
       color: '#a8d8f0',
       url: 'https://quartyardsd.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=quartyardsd.com&sz=128',
+      icon: 'marks/venues/quartyardsd.com.jpg',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/7307' },
     },
     'The Che Cafe Collective': { // on DICE (3035 Theatre District Drive, La Jolla, California 92093); its DICE venue page is the listing (2026-11-03)
@@ -458,7 +454,7 @@
       cssVar: '--v-checafecollect',
       color: '#e3a363',
       url: 'http://checafe.org',
-      icon: 'https://www.google.com/s2/favicons?domain=checafe.org&sz=128',
+      icon: 'marks/venues/checafe.org.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/17467' },
     },
     'Tender Hooligan': { // on DICE (221 3rd Avenue, Suite 101, Chula Vista, California 91910); its DICE venue page is the listing (2026-11-03)
@@ -468,7 +464,7 @@
       cssVar: '--v-tenderhooligan',
       color: '#86ead6',
       url: 'https://dice.fm/venue/20315',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20315' },
     },
   };
