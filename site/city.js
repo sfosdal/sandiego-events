@@ -252,7 +252,6 @@
       cssVar: '--v-nicu',
       color: '#86b7ea',
       url: 'https://www.livenation.com/venue/KovZpa2WZe/north-island-credit-union-amphitheatre-events',
-      icon: 'marks/venues/livenation.com.png',
       tm: { id: 'KovZpa2WZe', match: 'north island', fallbackUrl: 'https://www.livenation.com/venue/KovZpa2WZe/north-island-credit-union-amphitheatre-events', exclude: /parking/i },
       // the amphitheatre's only listing is Live Nation's venue page (schema.org Event markup; the season-ticket waitlist dropped), secondary behind Ticketmaster (2026-10-27)
       feed: { kind: 'jsonld', secondary: true, url: 'https://www.livenation.com/venue/KovZpa2WZe/north-island-credit-union-amphitheatre-events', drop: /waitlist|season tickets?|parking/i },
@@ -454,7 +453,6 @@
       cssVar: '--v-checafecollect',
       color: '#e3a363',
       url: 'http://checafe.org',
-      icon: 'marks/venues/checafe.org.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/17467' },
     },
     'Tender Hooligan': { // on DICE (221 3rd Avenue, Suite 101, Chula Vista, California 91910); its DICE venue page is the listing (2026-11-03)
@@ -464,7 +462,6 @@
       cssVar: '--v-tenderhooligan',
       color: '#86ead6',
       url: 'https://dice.fm/venue/20315',
-      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20315' },
     },
   };
