@@ -2459,6 +2459,184 @@
    "url": "https://www.ticketmaster.com/daniel-eachus-temecula-california-11-07-2026/event/0A006524B872BC32",
    "age21": true,
    "type": "arts"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Women's Basketball vs. UTSA Roadrunners Women's Basketball",
+   "date": "2026-11-08",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-womens-basketball-san-diego-california-11-08-2026/event/0A006553C97FA097",
+   "type": "sports"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-08",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-08-2026/event/0A0064F895A965F9",
+   "type": "arts"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Robby Hoffman: Live On Tour",
+   "date": "2026-11-08",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-08-2026/event/0B00650BBBC45A23",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-08",
+   "time": "16:30:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Will Donato",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/will-donato/",
+   "type": "concert"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-08",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-08-2026/event/0A0064F895A265F0",
+   "type": "arts"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Robby Hoffman: Live On Tour",
+   "date": "2026-11-08",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-08-2026/event/0B0064FB97812CA6",
+   "type": "arts"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Holy Wave, Queen Serene, San Diego Freak Out DJs",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a15b120a499d400011bf912",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "SOMA",
+   "title": "Father Of Peace",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://www.somasandiego.com/event/father-of-peace/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Sob X Rbe",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sob-x-rbe-san-diego-california-11-08-2026/event/0A006523C633C323",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Kingston Rossdale",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/kingston-rossdale-san-diego-california-11-08-2026/event/0A00653CACF293B0",
+   "type": "concert"
+  },
+  {
+   "venue": "SOMA",
+   "title": "Father Of Peace - Moved To Soma Stage",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/father-of-peace-moved-to-soma-san-diego-california-11-08-2026/event/0A0064D2E4B3F88D",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Soft Cell",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/soft-cell-el-cajon-california-11-08-2026/event/0B0064EFB8AE5140",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Ricky Martin",
+   "date": "2026-11-08",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/ricky-martin-temecula-california-11-08-2026/event/0A0064C3CAF6BA38",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Dave Hause (21 and Over)",
+   "date": "2026-11-08",
+   "time": "19:30:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Michael Blaustein: The Taste Me Tour: The Final Leg",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/michael-blaustein-the-taste-me-tour-san-diego-california-11-08-2026/event/0A006482C868F1CC",
+   "type": "arts"
+  },
+  {
+   "venue": "Cal Coast Open Air Theatre",
+   "title": "Jessie Reyez: A Little Vengeance Tour",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jessie-reyez-a-little-vengeance-tour-san-diego-california-11-08-2026/event/0A006513B4C3FDDB",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Bahamas - Industrial Sport & Sound w/ Sister Ray",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/bahamas-industrial-sport-belly-up-tickets/14757683",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Stephen Day - The Self Titled Tour w/ Emily Brimlow",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/stephen-day-the-music-box-tickets/14973783",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "The Psychedelic Furs With Special Guests We Are Scientists",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-psychedelic-furs-with-special-guests-del-mar-california-11-08-2026/event/0A006454B370D4AA",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Armed and Funny\t\t\t\t",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/armed-and-funny-temecula-california-11-08-2026/event/0A006544274CDCEA",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
