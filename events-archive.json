@@ -2637,6 +2637,47 @@
    "url": "https://www.ticketmaster.com/armed-and-funny-temecula-california-11-08-2026/event/0A006544274CDCEA",
    "age21": true,
    "type": "arts"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Jady, colby!, TJ Minor",
+   "date": "2026-11-09",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a1f5467916ea20001f0e315",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "The STARS Tour featuring Anne Wilson",
+   "date": "2026-11-09",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-stars-tour-featuring-anne-wilson-san-diego-california-11-09-2026/event/0A0064A789E760D6",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Bebe Stockwell, Khatumu",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://wl.seetickets.us/event/bebe-stockwell-khatumu/691890?afflky=Casbah",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "King Buffalo - North America Tour 2026 with special guests L.A. Witch",
+   "date": "2026-11-09",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/king-buffalo-north-belly-up-tickets/14918073",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Thomas Dolby - Iconic 80's Recollections Tour 2026 w/ DJ Vaughn Avakian",
+   "date": "2026-11-09",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/thomas-dolby-iconic-music-box-tickets/15017053",
+   "type": "concert"
   }
  ]
 }
