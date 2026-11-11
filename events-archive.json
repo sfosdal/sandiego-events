@@ -2678,6 +2678,63 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/thomas-dolby-iconic-music-box-tickets/15017053",
    "type": "concert"
+  },
+  {
+   "venue": "SOMA",
+   "title": "UNDERØATH",
+   "date": "2026-11-10",
+   "time": "17:30",
+   "url": "https://www.somasandiego.com/event/underoath-3/",
+   "type": "concert"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Voice of San Diego: Brews & News Live Podcast",
+   "date": "2026-11-10",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6acfefd5f76aac00017c68d8",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "SOMA",
+   "title": "Underoath",
+   "date": "2026-11-10",
+   "time": "18:30:00",
+   "url": "http://www.somasandiego.com",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Concerts by the Bay",
+   "title": "Rodrigo y Gabriela - OurHome Tour",
+   "date": "2026-11-10",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/rodrigo-y-gabriela-ourhome-tour-san-diego-california-11-10-2026/event/0A0064C4DEE6ADD7",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Sun Room",
+   "date": "2026-11-10",
+   "time": "21:00",
+   "url": "https://wl.seetickets.us/event/sun-room/707454?afflky=Casbah",
+   "type": "concert"
   }
  ]
 }
