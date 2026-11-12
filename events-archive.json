@@ -2735,6 +2735,113 @@
    "time": "21:00",
    "url": "https://wl.seetickets.us/event/sun-room/707454?afflky=Casbah",
    "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Headband Andy",
+   "date": "2026-11-11",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14379604/headband-andy-dono-can-t-die-again-rqsy/",
+   "type": "concert"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Mens Basketball vs. Bethune-Cookman Wildcats Men's Basketball",
+   "date": "2026-11-11",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-mens-basketball-san-diego-california-11-11-2026/event/0A00654CC4F57BCE",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "YouTube"
+    ]
+   }
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-11",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-11",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "John Primer & Bob Corritore",
+   "date": "2026-11-11",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/john-primer-bob-corritore/",
+   "type": "concert"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Todd Day Wait, ZB Savoy, Zack Oakley",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a6a6570760a370001cb99b6",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "San Diego Gulls vs. San Jose Barracuda",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.pechangaarenasd.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Women's Basketball vs. University of Colorado Buffaloes Womens Basketball",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-womens-basketball-san-diego-california-11-11-2026/event/0A006553C983A0A1",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "YouTube"
+    ]
+   }
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Bombargo",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/bombargo-san-diego-california-11-11-2026/event/0A0064C8578417DA",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Adam Ant - Live 2026",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/adam-ant-live-2026-el-cajon-california-11-11-2026/event/0B006535DE5E621A",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Nick Shoulders - Apocalypse, Never! Tour w/ Creekbed Carter",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/nick-shoulders-apocalypse-belly-up-tickets/14837403",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Oh He Dead, Nodaway",
+   "date": "2026-11-11",
+   "time": "20:30",
+   "url": "https://wl.seetickets.us/event/oh-he-dead-nodaway/701277?afflky=Casbah",
+   "type": "concert"
   }
  ]
 }
