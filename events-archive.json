@@ -2842,6 +2842,105 @@
    "time": "20:30",
    "url": "https://wl.seetickets.us/event/oh-he-dead-nodaway/701277?afflky=Casbah",
    "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-12",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-12",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Linda Berry Band",
+   "date": "2026-11-12",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/linda-berry-band/2026-11-12/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Club Ironmouse San Diego 2026 (18+ W/ Valid ID)",
+   "date": "2026-11-12",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/club-ironmouse-san-diego-2026-18-san-diego-california-11-12-2026/event/0B00653CCB7A71A6",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "VALÉ, Kate Delos Santos, Vivi Nubes",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a3185702b9bee0001719ff1",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "Outlander in Concert",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/outlander-in-concert-san-diego-california-11-12-2026/event/0A006474C105D126",
+   "type": "movie"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Rave Jesus - Rave Revival Fall Tour",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/rave-jesus-rave-revival-fall-tour-san-diego-california-11-12-2026/event/0A00651A760A466F",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Chest Fever presents The Last Waltz",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/chest-fever-presents-the-last-belly-up-tickets/14232964",
+   "type": "concert"
+  },
+  {
+   "venue": "Jacobs Music Center",
+   "title": "Simply Ina: An Evening Conversation with Ina Garten",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "url": "https://www.sandiegosymphony.org/performances/ina-garten/",
+   "type": "arts"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Jervis Campbell - Good Grief Tour w/ Lydi Lynn",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/jervis-campbell-good-music-box-tickets/14902753",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Joey Medina",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/joey-medina-temecula-california-11-12-2026/event/0A006524EB972AE3",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Billy King and the Bad, Bad, Bad, The Film Company",
+   "date": "2026-11-12",
+   "time": "20:30",
+   "url": "https://wl.seetickets.us/event/billy-king-and-the-bad-bad-bad-the-film-company/696736?afflky=Casbah",
+   "type": "concert"
   }
  ]
 }
