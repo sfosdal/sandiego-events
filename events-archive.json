@@ -2941,6 +2941,172 @@
    "time": "20:30",
    "url": "https://wl.seetickets.us/event/billy-king-and-the-bad-bad-bad-the-film-company/696736?afflky=Casbah",
    "type": "concert"
+  },
+  {
+   "venue": "The Rady Shell",
+   "title": "Nonstop Presents: Vintage Culture \"affairs\"",
+   "date": "2026-11-13",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/nonstop-presents-vintage-culture-affairs-san-diego-california-11-13-2026/event/0A00650CF5957BE0",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Rock The Goat",
+   "date": "2026-11-13",
+   "time": "17:00",
+   "url": "https://www.humphreysbackstagelive.com/event/rock-the-goat/2026-11-13/",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Atomic Groove's Peace . Love . Gratitude Dance Party Happy Hour",
+   "date": "2026-11-13",
+   "time": "17:30:00",
+   "url": "https://www.ticketweb.com/event/atomic-grooves-peace-love-belly-up-tickets/14999933",
+   "type": "concert"
+  },
+  {
+   "venue": "Petco Park",
+   "title": "Crankdat (18+ Event)",
+   "date": "2026-11-13",
+   "time": "18:00:00",
+   "url": "https://www.mlb.com/padres/schedule",
+   "type": "concert"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Bluey's Big Play",
+   "date": "2026-11-13",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/blueys-big-play-san-diego-california-11-13-2026/event/0A006466AE56842A",
+   "type": "arts"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "DragonForce: Inhuman Rampage 20th Anniversary",
+   "date": "2026-11-13",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/dragonforce-inhuman-rampage-20th-anniversary-san-diego-california-11-13-2026/event/0B0064B4CB986AA5",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "Teddy Swims",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://pechangaarenasd.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "Who Want The Smoke",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/who-want-the-smoke-san-diego-california-11-13-2026/event/0A0064EAA46484B3",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "The Damned - Final Damnation 50",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-damned-final-damnation-50-san-diego-california-11-13-2026/event/0A00648FB6646910",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-12T21:01:33.378Z"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Mad Tsai - The Bite Back Tour",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mad-tsai-the-bite-back-tour-san-diego-california-11-13-2026/event/0A0064D21322B2A0",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Derek Hough Dance For The Holidays",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/derek-hough-dance-for-the-holidays-el-cajon-california-11-13-2026/event/0B0064EFEB3F71CC",
+   "type": "arts"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Joey Medina",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/joey-medina-temecula-california-11-13-2026/event/0A006524EB9A2AEC",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Sparta, Public Opinion",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6a7ca02d74a6bb0001d908ef",
+   "end": "23:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "The Sticky Sweets",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://www.humphreysbackstagelive.com/event/sticky-sweets/2026-11-13/",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Radolescents, Spice Pistols, Cryptid Hour, Go Scarlet",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://wl.seetickets.us/event/radolescents-spice-pistols-cryptid-hour-go-scarlet/703762?afflky=Casbah",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "No Tengo Calma Tour 2026 featuring Prayers, Devora, EX Lover and Hallows",
+   "date": "2026-11-13",
+   "time": "20:30:00",
+   "url": "https://www.ticketweb.com/event/no-tengo-calma-tour-2026-music-box-tickets/15013573",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Donavon Frankenreiter + The Band Of Heathens - Rolling Together Revue",
+   "date": "2026-11-13",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/donavon-frankenreiter-the-band-belly-up-tickets/14275514",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Joey Medina",
+   "date": "2026-11-13",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/joey-medina-temecula-california-11-13-2026/event/0A006524EB9E2AF6",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
