@@ -3107,6 +3107,218 @@
    "url": "https://www.ticketmaster.com/joey-medina-temecula-california-11-13-2026/event/0A006524EB9E2AF6",
    "age21": true,
    "type": "arts"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Bluey's Big Play",
+   "date": "2026-11-14",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/blueys-big-play-san-diego-california-11-14-2026/event/0A006466AE618435",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-14",
+   "time": "14:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-14",
+   "time": "14:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Robin Henkel",
+   "date": "2026-11-14",
+   "time": "17:00",
+   "url": "https://www.humphreysbackstagelive.com/event/robin-henkel/2026-11-14/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-14",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-14",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Bluey's Big Play",
+   "date": "2026-11-14",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/blueys-big-play-san-diego-california-11-14-2026/event/0A006466AE5B8430",
+   "type": "arts"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Heather McDonald",
+   "date": "2026-11-14",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/heather-mcdonald-el-cajon-california-11-14-2026/event/0B00652494AE4597",
+   "type": "arts"
+  },
+  {
+   "venue": "Snapdragon Stadium",
+   "title": "SDSU Aztec Football vs. Utah State University Aggies Football",
+   "date": "2026-11-14",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/sdsu-aztec-football-vs-utah-state-san-diego-california-11-14-2026/event/0A0064E681823924",
+   "type": "sports"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Death Cab For Karaoke | live band karaoke!",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ac92e1c7424de0001849aa2",
+   "type": "concert"
+  },
+  {
+   "venue": "The Che Cafe Collective",
+   "title": "Friends in Real Life @ The Che Café",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6abd87fcf9422b0001ae15a7",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Lil Peep 30TH Birthday Celebration",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/lil-peep-30th-birthday-celebration-san-diego-california-11-14-2026/event/0A0065060F8E83E9",
+   "type": "concert"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "2Dead Boyz x The Underachievers - NO1LIVESFOREVER Tour",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/2dead-boyz-x-the-underachievers-no1livesforever-san-diego-california-11-14-2026/event/0A00652BC78EC091",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "The Tallest Man On Earth",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-tallest-man-on-earth-san-diego-california-11-14-2026/event/0B0064B6C81763BF",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Joey Medina",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/joey-medina-temecula-california-11-14-2026/event/0A006524EBA12AFF",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Jacobs Music Center",
+   "title": "Tchaikovsky and Shostakovich: Majesty and Tragedy",
+   "date": "2026-11-14",
+   "time": "19:30",
+   "url": "https://www.sandiegosymphony.org/performances/tchaikovsky-and-shostakovich/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Totally 80’s",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://www.humphreysbackstagelive.com/event/totally-80s-2/2026-11-14/",
+   "type": "arts"
+  },
+  {
+   "venue": "SOMA",
+   "title": "JSTJR",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://www.somasandiego.com/event/jstjr/",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "Los Tigres del Norte",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://pechangaarenasd.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "Marisela: Eterna Tour 2026",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/marisela-eterna-tour-2026-san-diego-california-11-14-2026/event/0A00646DAFB109E4",
+   "type": "concert"
+  },
+  {
+   "venue": "North Island Credit Union Amphitheatre",
+   "title": "Deorro - 18+",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/deorro-18-chula-vista-california-11-14-2026/event/0A006532BC68A7D7",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Banda Machos & Ezequiel Peña Jr",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/banda-machos-ezequiel-pena-jr-temecula-california-11-14-2026/event/0A00650289AD3F9B",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Southern Culture On the Skids (21 and Over)",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Donavon Frankenreiter + The Band Of Heathens - Rolling Together Revue",
+   "date": "2026-11-14",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/donavon-frankenreiter-the-band-belly-up-tickets/14275554",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "BoomBox - Fall Tour 2026 w/ Dgtl CLR",
+   "date": "2026-11-14",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/boombox-fall-tour-music-box-tickets/14891513",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Joey Medina",
+   "date": "2026-11-14",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/joey-medina-temecula-california-11-14-2026/event/0A006524EBA32B05",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
