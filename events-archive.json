@@ -3472,6 +3472,61 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/marc-broussard-west-belly-up-tickets/14856253",
    "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Cheyne's Brain Fundraiser: Comedy Night",
+   "date": "2026-11-16",
+   "time": "",
+   "url": "https://bellyup.com/calendar/TWL3993082/cheyne-s-brain-fundraiser-comedy-night",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Kate Nash",
+   "date": "2026-11-16",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14334964/kate-nash-joh-chase/",
+   "type": "concert"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Oso Oso, Liquid Mike, bugsy, Jordan Krimston",
+   "date": "2026-11-16",
+   "time": "18:30",
+   "url": "https://dice.fm/event/6a83493191dc5400013a9694",
+   "end": "22:30",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Syd: Beard Tour",
+   "date": "2026-11-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/syd-beard-tour-san-diego-california-11-16-2026/event/0B00652EA6483CE6",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:16:50.392Z",
+    "from": 50.15
+   }
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Syd - Early Entry VIP Upgrade",
+   "date": "2026-11-16",
+   "time": "19:00:00",
+   "url": "https://www.vipnation.com/tour_date/syd-san-diego-ca-11-16-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Jon Spencer -21+",
+   "date": "2026-11-16",
+   "time": "20:00:00",
+   "url": "https://www.casbahmusic.com/",
+   "type": "concert"
   }
  ]
 }
