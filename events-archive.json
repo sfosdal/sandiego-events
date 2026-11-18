@@ -3527,6 +3527,81 @@
    "time": "20:00:00",
    "url": "https://www.casbahmusic.com/",
    "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "RØZ Presents: SE Está Haciendo Tarde",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/rz-presents-se-esta-haciendo-tarde-san-diego-california-11-17-2026/event/0A00650621A2B3C4",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Rachael & Vilray, Taylor Ashton",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/rachael-vilray-taylor-ashton-belly-up-tickets/14235644",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:30.653Z",
+    "from": 44.3
+   }
+  },
+  {
+   "venue": "Cal Coast Open Air Theatre",
+   "title": "Alice Cooper - Alice's Attic Tour",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/alice-cooper-alices-attic-tour-san-diego-california-11-17-2026/event/0A0064DED879B67B",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:20:22.235Z",
+    "from": 34.28
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "SOMA",
+   "title": "Isaiah Rashad",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "http://www.somasandiego.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "John Craigie With special guest Lucy Clearwater - Keep It Warm Tour 2026",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/john-craigie-with-special-guest-music-box-tickets/14264344",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:32.601Z",
+    "from": 38.3
+   }
   }
  ]
 }
