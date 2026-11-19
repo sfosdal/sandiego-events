@@ -1871,6 +1871,14 @@
    "type": "concert"
   },
   {
+   "venue": "Music Box",
+   "title": "Private Event",
+   "date": "2026-11-03",
+   "time": "",
+   "url": "https://musicboxsd.com/event/15057273/closed-for-private-event/",
+   "type": "concert"
+  },
+  {
    "venue": "SOMA",
    "title": "Kurt Travis",
    "date": "2026-11-03",
@@ -3602,6 +3610,117 @@
     "checked": "2026-11-16T23:12:32.601Z",
     "from": 38.3
    }
+  },
+  {
+   "venue": "Music Box",
+   "title": "Em Beihold",
+   "date": "2026-11-18",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14212394/em-beihold-tales-of-a-failed-shapeshifter-tour/",
+   "type": "concert"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Bo & The Hobos",
+   "date": "2026-11-18",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/bo-the-hobos/",
+   "type": "arts"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Paul Blasko, Prizecard, Zach Blanchet",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ad68592a42bf500017a525f",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "San Diego Gulls vs. Bakersfield Condors",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.pechangaarenasd.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Mens Basketball vs. Texas Southern Tigers Mens Basketball",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-mens-basketball-san-diego-california-11-18-2026/event/0A00654CC4F97BD2",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "YouTube"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:28:18.738Z",
+    "from": 12
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Rhye - Joy Tour",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/rhye-joy-tour-san-diego-california-11-18-2026/event/0B0064C3A2C75233",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:28:40.632Z",
+    "from": 157.41
+   }
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Chazz Palminteri",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chazz-palminteri-el-cajon-california-11-18-2026/event/0B006503B110487C"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "BERTHA: Grateful Drag  The World's First All-Drag Grateful Dead Tribute Band",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/bertha-grateful-drag-the-belly-up-tickets/14989283",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:50.162Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Casbah",
+   "title": "DAME, The Erasers",
+   "date": "2026-11-18",
+   "time": "20:30",
+   "url": "https://wl.seetickets.us/event/dame-the-erasers/704831?afflky=Casbah",
+   "type": "concert"
   }
  ]
 }
