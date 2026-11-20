@@ -3721,6 +3721,134 @@
    "time": "20:30",
    "url": "https://wl.seetickets.us/event/dame-the-erasers/704831?afflky=Casbah",
    "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "The Army, The Navy",
+   "date": "2026-11-19",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14298174/the-army-the-navy-sedona-glovebox/",
+   "type": "concert"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Mark William Lewis, claire rousay",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a59022303d0f00001a3f104",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Yana - The Feelings Are Forever Tour",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/yana-the-feelings-are-forever-tour-san-diego-california-11-19-2026/event/0A0064F0F1CADBCF",
+   "type": "concert",
+   "tickets": {
+    "box": 1,
+    "resale": 44,
+    "checked": "2026-11-17T00:14:22.603Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Manic Street Preachers",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/manic-street-preachers-san-diego-california-11-19-2026/event/0B0064B69A3F3C5B",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:14:42.687Z",
+    "from": 43.8
+   }
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Chris Fleming Live",
+   "date": "2026-11-19",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/chris-fleming-live-san-diego-california-11-19-2026/event/0A006528EF7BF05F",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:15:02.749Z",
+    "from": 76.7
+   }
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Blue Healers",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://www.humphreysbackstagelive.com/event/blue-healers/2026-11-19/",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Jammy Buffet - Lakes Below the Mountains Tour",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/jammy-buffet-lakes-belly-up-tickets/14288634",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:13:07.510Z",
+    "from": 29.55
+   }
+  },
+  {
+   "venue": "SOMA",
+   "title": "Isaiah Rashad: Lil Sunny's Awful Road Trip",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/isaiah-rashad-lil-sunnys-awful-soma-mainstage-tickets/14307454?pl=soma",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Dante Rusciolelli",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dante-rusciolelli-temecula-california-11-19-2026/event/0A006524F0E6380D",
+   "age21": true,
+   "type": "arts",
+   "tickets": {
+    "box": 91,
+    "resale": 0,
+    "checked": "2026-11-17T00:15:05.051Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "An Evening of Alton Brown",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/an-evening-of-alton-brown-temecula-california-11-19-2026/event/0A00649B93237D38",
+   "type": "arts"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Sam Ritchie, Leavers, spacewizardinspace",
+   "date": "2026-11-19",
+   "time": "20:30",
+   "url": "https://wl.seetickets.us/event/sam-ritchie-leavers-spacewizardinspace/709872?afflky=Casbah",
+   "type": "concert"
   }
  ]
 }
