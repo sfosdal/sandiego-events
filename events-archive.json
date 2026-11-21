@@ -3849,6 +3849,226 @@
    "time": "20:30",
    "url": "https://wl.seetickets.us/event/sam-ritchie-leavers-spacewizardinspace/709872?afflky=Casbah",
    "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "KBong",
+   "date": "2026-11-20",
+   "time": "",
+   "url": "https://bellyup.com/calendar/14250234/kbong-johnny-cosmic-swooon",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "Takuya Nakamura",
+   "date": "2026-11-20",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14995773/takuya-nakamura-rp-boo/",
+   "type": "concert"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Manzanita Blues Band",
+   "date": "2026-11-20",
+   "time": "17:00",
+   "url": "https://www.humphreysbackstagelive.com/event/manzanita-blues-band/2026-11-20/",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Atomic Groove's Here Comes The Holidays Benefit for The Red Nose Run Dance Party Happy Hour",
+   "date": "2026-11-20",
+   "time": "17:30:00",
+   "url": "https://www.ticketweb.com/event/atomic-grooves-here-comes-the-belly-up-tickets/14999903",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:13:29.275Z",
+    "from": 17.8
+   }
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Of Mice and Men",
+   "date": "2026-11-20",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/of-mice-and-men-san-diego-california-11-20-2026/event/0A0064C39C106FAF",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:24:59.884Z",
+    "from": 35.75
+   }
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Tribute: The Morgan & Ella Experience - A Tribute to Modern Country",
+   "date": "2026-11-20",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/tribute-the-morgan-ella-experience-a-el-cajon-california-11-20-2026/event/0B006523963F3D09",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:25:20.077Z",
+    "from": 22
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Lesser Works, The Sines, Naked West",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6adcf47a0832c80001ccf9df",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "San Diego Gulls vs. Iowa Wild",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.pechangaarenasd.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "Three Days Grace - Alienation Tour ",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/three-days-grace-alienation-tour-san-diego-california-11-20-2026/event/0A006363ACF562CE",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:25:40.146Z",
+    "from": 46.8
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "San Diego Civic Theatre",
+   "title": "Seth Meyers: Live",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/seth-meyers-live-san-diego-california-11-20-2026/event/0A0064D6874735FD",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Kiran + Nivi",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/kiran-nivi-san-diego-california-11-20-2026/event/0A00650B93CA8373",
+   "type": "concert",
+   "tickets": {
+    "box": 170,
+    "resale": 0,
+    "checked": "2026-11-17T00:26:03.179Z",
+    "from": 7.5
+   }
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Dante Rusciolelli",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/dante-rusciolelli-temecula-california-11-20-2026/event/0A006524F0E93816",
+   "age21": true,
+   "type": "arts",
+   "tickets": {
+    "box": 88,
+    "resale": 0,
+    "checked": "2026-11-17T00:26:06.227Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "Jacobs Music Center",
+   "title": "Voices of Destiny: Liszt’s Concerto and Mahler’s 6th",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "url": "https://www.sandiegosymphony.org/performances/voices-of-destiny/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Groove Squad",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://www.humphreysbackstagelive.com/event/groove-squad-21/2026-11-20/",
+   "type": "arts"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Los Terricolas, Los Freddys Y Pasteles Verdes",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/los-terricolas-los-freddys-y-pasteles-san-diego-california-11-20-2026/event/0A0065487AB433EC",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Kool & the Gang",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kool-the-gang-temecula-california-11-20-2026/event/0A0064E1BF369190",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:26:46.486Z",
+    "from": 162.18
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Casbah",
+   "title": "Emo Nite",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "url": "https://wl.seetickets.us/event/emo-nite/709373?afflky=Casbah",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "KBong, Johnny Cosmic, Swooon",
+   "date": "2026-11-20",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/kbong-johnny-cosmic-swooon-belly-up-tickets/14250234",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:13:31.088Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Dante Rusciolelli",
+   "date": "2026-11-20",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/dante-rusciolelli-temecula-california-11-20-2026/event/0A006524F0EC3819",
+   "age21": true,
+   "type": "arts",
+   "tickets": {
+    "box": 86,
+    "resale": 0,
+    "checked": "2026-11-17T00:26:48.655Z",
+    "from": 25
+   }
   }
  ]
 }
