@@ -4069,6 +4069,234 @@
     "checked": "2026-11-17T00:26:48.655Z",
     "from": 25
    }
+  },
+  {
+   "venue": "Belly Up",
+   "title": "KBong",
+   "date": "2026-11-21",
+   "time": "",
+   "url": "https://bellyup.com/calendar/14250254/kbong-johnny-cosmic-brendan-clemente",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-21",
+   "time": "14:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-21",
+   "time": "14:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Jacobs Music Center",
+   "title": "AMPLIFY: A Gala Evening with the San Diego Symphony",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "url": "https://www.sandiegosymphony.org/performances/gala/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "The Party Crashers",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "url": "https://www.humphreysbackstagelive.com/event/the-party-crashers-2/2026-11-21/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-21",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-21",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "San Diego Gulls vs. Iowa Wild",
+   "date": "2026-11-21",
+   "time": "18:00:00",
+   "url": "https://www.pechangaarenasd.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Senses Fail Presents Still Searching",
+   "date": "2026-11-21",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/senses-fail-presents-still-searching-san-diego-california-11-21-2026/event/0B0064CBF69B525F",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:41:56.936Z",
+    "from": 49.7
+   }
+  },
+  {
+   "venue": "House of Blues",
+   "title": "SiM - Hooman World Tour",
+   "date": "2026-11-21",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/sim-hooman-world-tour-san-diego-california-11-21-2026/event/0A0064B2D9629D47",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-09T21:01:31.175Z"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Mr. Fantasy - Sexy Saturday Nights Tour",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mr-fantasy-sexy-saturday-nights-tour-san-diego-california-11-21-2026/event/0A006526D9E324FD",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:42:37.264Z",
+    "from": 33.25
+   }
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "Peach Tree Rascals - The Shine4ya Tour",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/peach-tree-rascals-the-shine4ya-tour-san-diego-california-11-21-2026/event/0A006523C313BCF2",
+   "type": "concert",
+   "tickets": {
+    "box": 150,
+    "resale": 0,
+    "checked": "2026-11-21T00:33:00.780Z",
+    "from": 13.75
+   }
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Dante Rusciolelli",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/dante-rusciolelli-temecula-california-11-21-2026/event/0A006524F0EE3829",
+   "age21": true,
+   "type": "arts",
+   "tickets": {
+    "box": 80,
+    "resale": 0,
+    "checked": "2026-11-21T00:33:03.020Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Toga Party Band",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.humphreysbackstagelive.com/event/toga-party/2026-11-21/",
+   "type": "arts"
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Perritos Only Presents: That's Not Me Comedy Tour",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/perritos-only-presents-thats-not-me-san-diego-california-11-21-2026/event/0A00644C8F5767E8",
+   "type": "arts"
+  },
+  {
+   "venue": "The Sound",
+   "title": "Houndmouth - The LORDY Tour w/ Dogpark",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/houndmouth-the-lordy-tour-w-dogpark-del-mar-california-11-21-2026/event/0A0064EFC6869B51",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:33:43.288Z",
+    "from": 38.6
+   }
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Alfred Robles: Vatos with Gatos",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/alfred-robles-vatos-with-gatos-temecula-california-11-21-2026/event/0A00646BBEEC8FED",
+   "type": "arts"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Sure Fire Soul Ensemble, The Styletones",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://wl.seetickets.us/event/sure-fire-soul-ensemble-the-styletones/702820?afflky=Casbah",
+   "type": "concert"
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Dance… 4 U: Slayyyter X Charli XCX Night",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6a920e9c69be3b0001bb77e3",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "KBong, Johnny Cosmic, Brendan Clemente",
+   "date": "2026-11-21",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/kbong-johnny-cosmic-brendan-clemente-belly-up-tickets/14250254",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:23:27.209Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Music Box",
+   "title": "Son Volt, Kelly Willis",
+   "date": "2026-11-21",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/son-volt-kelly-willis-music-box-tickets/14891433",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:23:29.154Z",
+    "from": 38.3
+   }
+  },
+  {
+   "venue": "Pechanga Resort Casino",
+   "title": "Dante Rusciolelli",
+   "date": "2026-11-21",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/dante-rusciolelli-temecula-california-11-21-2026/event/0A006524F0F03830",
+   "age21": true,
+   "type": "arts",
+   "tickets": {
+    "box": 74,
+    "resale": 0,
+    "checked": "2026-11-21T00:34:05.943Z",
+    "from": 25
+   }
   }
  ]
 }
