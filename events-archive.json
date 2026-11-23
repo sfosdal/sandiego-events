@@ -4297,6 +4297,166 @@
     "checked": "2026-11-21T00:34:05.943Z",
     "from": 25
    }
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Andrew McMahon",
+   "date": "2026-11-22",
+   "time": "",
+   "url": "https://bellyup.com/calendar/14974153/andrew-mcmahon-and-his-piano-featuring-very-special-guest-ivory-layne",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "Clara La San",
+   "date": "2026-11-22",
+   "time": "",
+   "url": "https://thesoundsd.com/event-details/15035903/clara-la-san-chosen-silences-tour-fall-2026-w-sausha",
+   "type": "concert"
+  },
+  {
+   "venue": "Viejas Arena",
+   "title": "San Diego State Aztecs Women's Basketball vs. Winthrop Eagles Women's Basketball",
+   "date": "2026-11-22",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/san-diego-state-aztecs-womens-basketball-san-diego-california-11-22-2026/event/0A006553C988A0AB",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:57:18.285Z",
+    "from": 11.8
+   }
+  },
+  {
+   "venue": "Jacobs Music Center",
+   "title": "Voices of Destiny: Liszt’s Concerto and Mahler’s 6th",
+   "date": "2026-11-22",
+   "time": "14:00",
+   "url": "https://www.sandiegosymphony.org/performances/voices-of-destiny/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-22",
+   "time": "14:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-22",
+   "time": "14:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-22",
+   "time": "17:30:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Tony Exum Jr.",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/tony-exum-jr/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Magnolia",
+   "title": "Tribute: The Morgan & Ella Experience - A Tribute to Modern Country",
+   "date": "2026-11-22",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/tribute-the-morgan-ella-experience-a-el-cajon-california-11-22-2026/event/0B00652FE8568E58",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:57:38.322Z",
+    "from": 25
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "The Goddamn Gallows, King Sickabilly",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a7c879098c64d000193d81b",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Eivør",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/eivr-san-diego-california-11-22-2026/event/0A006497BE9EFAAF",
+   "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Andrew McMahon and his piano featuring very special guest Ivory Layne",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/andrew-mcmahon-and-his-piano-belly-up-tickets/14974153",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:23:50.160Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Music Box",
+   "title": "The Wrecks - Finally : OUTSIDE Tour w/ Worry Club & Kid Sistr",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/the-wrecks-finally-music-box-tickets/14204254",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:23:52.067Z",
+    "from": 35.8
+   }
+  },
+  {
+   "venue": "Casbah",
+   "title": "Flor de Toloache",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://wl.seetickets.us/event/flor-de-toloache/703761?afflky=Casbah",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "Clara La San - Chosen Silences Tour Fall 2026",
+   "date": "2026-11-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/clara-la-san-the-sound-tickets/15035903",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sound",
+   "title": "Clara La San - Chosen Silences Tour Fall 2026 w/ SAUSHA",
+   "date": "2026-11-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/clara-la-san-chosen-silences-tour-del-mar-california-11-22-2026/event/0A00650DAD30D177",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:14:36.343Z",
+    "from": 39.6
+   }
   }
  ]
 }
