@@ -4449,6 +4449,42 @@
     "checked": "2026-11-17T01:14:36.343Z",
     "from": 39.6
    }
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Bodysnatcher: Hell Is Here, Hell Is Home Tour",
+   "date": "2026-11-23",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/bodysnatcher-hell-is-here-hell-is-san-diego-california-11-23-2026/event/0A0064FEA59FABEC",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:29:11.269Z",
+    "from": 35.75
+   }
+  },
+  {
+   "venue": "Music Box",
+   "title": "Pretty Sick - USA anarchy tour 2026 w/ Sex Week",
+   "date": "2026-11-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/pretty-sick-usa-music-box-tickets/15000573",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:09.846Z",
+    "from": 32.55
+   }
+  },
+  {
+   "venue": "Casbah",
+   "title": "City Mouse, Pretty Mid, Substitute Gym Teacher",
+   "date": "2026-11-23",
+   "time": "20:30",
+   "url": "https://wl.seetickets.us/event/city-mouse-pretty-mid-substitute-gym-teacher/707658?afflky=Casbah",
+   "type": "concert"
   }
  ]
 }
