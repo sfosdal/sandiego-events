@@ -4485,6 +4485,105 @@
    "time": "20:30",
    "url": "https://wl.seetickets.us/event/city-mouse-pretty-mid-substitute-gym-teacher/707658?afflky=Casbah",
    "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Jimi Hendrix Celebration featuring Jeff Moore, Isaiah Mitchell & Anthony Cullins with special guests Jeff Ruiz & Marc Ford",
+   "date": "2026-11-24",
+   "time": "",
+   "url": "https://bellyup.com/calendar/14246294/jimi-hendrix-celebration-featuring-jeff-moore-isaiah-mitchell-anthony-cullins-with-special-guests-jeff-ruiz-marc-ford",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-24",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-24",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "DJ Raphi - Hype Tour 2.0",
+   "date": "2026-11-24",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/dj-raphi-hype-tour-20-san-diego-california-11-24-2026/event/0A0064F7A3F2795E",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:30:44.643Z",
+    "from": 37.75
+   }
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "Elixir, Minor Gems, Viví Nubes",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ad78ffd298fb80001d15e89",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Pechanga Arena",
+   "title": "San Diego Gulls vs. Ontario Reign",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.pechangaarenasd.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Voodoo Room",
+   "title": "ezcodylee: Make America Stunt 4 Life Tour",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ezcodylee-make-america-stunt-4-life-san-diego-california-11-24-2026/event/0A006532A9298882",
+   "type": "concert",
+   "tickets": {
+    "box": 214,
+    "resale": 0,
+    "checked": "2026-11-23T00:30:47.627Z",
+    "from": 10
+   }
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Jimi Hendrix Celebration featuring Jeff Moore, Isaiah Mitchell & Anthony Cullins with special guests Jeff Ruiz & Marc Ford",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/jimi-hendrix-celebration-featuring-jeff-belly-up-tickets/14246294",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:17.878Z",
+    "from": 23.3
+   }
+  },
+  {
+   "venue": "Balboa Theatre",
+   "title": "Leonid & Friends",
+   "date": "2026-11-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/leonid-friends-san-diego-california-11-24-2026/event/0A00644AE372A55F",
+   "type": "concert"
+  },
+  {
+   "venue": "Casbah",
+   "title": "Open Oscillator #60",
+   "date": "2026-11-24",
+   "time": "20:00",
+   "url": "https://wl.seetickets.us/event/open-oscillator-60/707754?afflky=Casbah",
+   "type": "concert"
   }
  ]
 }
