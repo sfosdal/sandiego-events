@@ -4584,6 +4584,135 @@
    "time": "20:00",
    "url": "https://wl.seetickets.us/event/open-oscillator-60/707754?afflky=Casbah",
    "type": "concert"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Oceans - Tribute to Pearl Jam",
+   "date": "2026-11-25",
+   "time": "",
+   "url": "https://bellyup.com/calendar/15029833/oceans-the-imposters-happy-hour",
+   "type": "concert"
+  },
+  {
+   "venue": "Music Box",
+   "title": "O'Flynn",
+   "date": "2026-11-25",
+   "time": "",
+   "url": "https://musicboxsd.com/event/14293104/o-flynn-skyknock/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-25",
+   "time": "13:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-25",
+   "time": "13:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-25",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Old Globe",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-25",
+   "time": "17:00:00",
+   "url": "https://www.theoldglobe.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Oceans & The Imposters Happy Hour",
+   "date": "2026-11-25",
+   "time": "17:30:00",
+   "url": "https://www.ticketweb.com/event/oceans-the-imposters-happy-belly-up-tickets/15029833",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-25T00:08:51.227Z",
+    "from": 12.8
+   }
+  },
+  {
+   "venue": "Humphreys Backstage Live",
+   "title": "Jeff Ousley’s Live Music Showcase",
+   "date": "2026-11-25",
+   "time": "18:00",
+   "url": "https://www.humphreysbackstagelive.com/event/jeff-ousleys-live-music-showcase/2026-11-25/",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Fear Factory - Cybernetic Domination Tour 2026",
+   "date": "2026-11-25",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/fear-factory-cybernetic-domination-tour-2026-san-diego-california-11-25-2026/event/0A00646B56392301",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:35:45.421Z",
+    "from": 33.25
+   }
+  },
+  {
+   "venue": "Soda Bar",
+   "title": "The Amalgamated, Rough Riders, Sugar Brown",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ac67b1a19d90300015e643a",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Observatory North Park",
+   "title": "Gary Numan North American Fall Tour 2026",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/gary-numan-north-american-fall-tour-san-diego-california-11-25-2026/event/0B00649B7DB922EA",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:36:05.508Z",
+    "from": 45.2
+   }
+  },
+  {
+   "venue": "Belly Up",
+   "title": "Queen Nation, DJ Organic Hispanic",
+   "date": "2026-11-25",
+   "time": "20:30:00",
+   "url": "https://www.ticketweb.com/event/queen-nation-dj-organic-hispanic-belly-up-tickets/14265204",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-25T00:08:53.428Z",
+    "from": 37.3
+   }
+  },
+  {
+   "venue": "Casbah",
+   "title": "DJs Robin Roth, 7th Stranger, Vaughn Avakian",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "url": "https://wl.seetickets.us/event/djs-robin-roth-7th-stranger-vaughn-avakian/709307?afflky=Casbah",
+   "type": "concert"
   }
  ]
 }
